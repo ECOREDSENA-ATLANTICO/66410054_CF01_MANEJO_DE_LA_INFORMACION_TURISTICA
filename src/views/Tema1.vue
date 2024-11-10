@@ -14,8 +14,9 @@
         figure.mb-md-4.mb-lg-0
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='')
       .col-lg-8
-        .fnd-t
-          h5 Enfoque de marketing y mercadeo aplicado a algunas tipologías de consumidores.
+        .row.justify-content-center.align-items-center
+          .col-auto.fnd-t
+            h5 Enfoque de marketing y mercadeo aplicado a algunas tipologías de consumidores.
         p Ahora exploraremos un enfoque más de marketing y mercado, aplicando algunas diferenciaciones en la forma de tipologías que implantan algunos autores, como:
         p <b>Consumo:</b> que desde que surge la necesidad de realizar un viaje hasta que, disfruta de sus vacaciones, y vuelve a su casa y habla de las vivencias de su viaje, por eso que dependiendo de la clasificación se busca reducir el objeto clasificado, consiguiendo en ocasiones retirar cualquier propósito de complejidad. 
         .cajon.color-primario.p-4.fnd-1
@@ -157,7 +158,7 @@
         h5 Clasificación de clientes
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-md-8
+      .col-lg-4.col-md-8.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img-12.png')
       .col-lg-8
@@ -184,7 +185,6 @@
                   img(src="@/assets/curso/temas/tema3/check.svg")
                 .col.px-0
                   p.mb-0 Aceptan cambios para encasillarlos y organizarlos.
-
           .tarjeta.fnd-7.p-4
             h5 Clientes amistosos-amables 
             .row.pe-lg-3(data-aos="zoom-in")
@@ -202,7 +202,6 @@
                   img(src="@/assets/curso/temas/tema3/check.svg")
                 .col.px-0
                   p.mb-0 No contradicen así no estén de acuerdo. 
-
           .tarjeta.fnd-7.p-4
             h5 Clientes silenciosos
             .row.pe-lg-3(data-aos="zoom-in")
@@ -220,7 +219,6 @@
                   img(src="@/assets/curso/temas/tema3/check.svg")
                 .col.px-0
                   p.mb-0 No dejan reflejar sus inquietudes fácilmente 
-                  
           .tarjeta.fnd-7.p-4
             h5 Clientes negativos 
             .row.pe-lg-3(data-aos="zoom-in")
@@ -243,7 +241,6 @@
                   img(src="@/assets/curso/temas/tema3/check.svg")
                 .col.px-0
                   p.mb-0 Se sienten dueños de la verdad. 
-
           .tarjeta.fnd-7.p-4
             h5 Clientes positivos 
             .row.pe-lg-3(data-aos="zoom-in")
@@ -271,7 +268,6 @@
                   img(src="@/assets/curso/temas/tema3/check.svg")
                 .col.px-0
                   p.mb-0 Se sienten superiores a los demás. 
-
           .tarjeta.fnd-7.p-4
             h5 Clientes indecisos - vacilantes
             .row.pe-lg-3(data-aos="zoom-in")
@@ -294,7 +290,6 @@
                   img(src="@/assets/curso/temas/tema3/check.svg")
                 .col.px-0
                   p.mb-0 Prefieren consultar todo antes de decidir. 
-                  
           .tarjeta.fnd-7.p-4
             h5 Clientes desconfiados 
             .row.pe-lg-3(data-aos="zoom-in")
@@ -312,7 +307,6 @@
                   img(src="@/assets/curso/temas/tema3/check.svg")
                 .col.px-0
                   p.mb-0 Llevan la desconfianza al terreno personal. 
-
           .tarjeta.fnd-7.p-4
             h5 Clientes agresivos 
             .row.pe-lg-3(data-aos="zoom-in")
