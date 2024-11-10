@@ -1,8 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Asesoría turística basada en necesidades y expectativas del cliente',
+    descripcionCurso:
+      'En el sector turístico comprender las necesidades y expectativas del cliente es esencial para una asesoría turística efectiva. Las necesidades son los requisitos básicos como comodidad y seguridad, mientras que las expectativas abarcan deseos adicionales sobre servicios y experiencias. Identificar estos aspectos permite a los profesionales del turismo ofrecer recomendaciones y soluciones personalizadas, asegurando que los servicios no solo cumplan con los requerimientos básicos, sino que también superen las expectativas, mejorando la experiencia del cliente y fomentando la fidelización.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,27 +33,38 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Caracterización de clientes',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Consumidor turístico ',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Comportamiento del consumidor',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema3',
+        numero: '4',
+        titulo: 'Inventario turístico',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema3',
+        numero: '5',
+        titulo: 'Valoración de los atractivos turísticos',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema3',
+        numero: '6',
+        titulo: 'Servicios complementarios',
         desarrolloContenidos: true,
       },
     ],
