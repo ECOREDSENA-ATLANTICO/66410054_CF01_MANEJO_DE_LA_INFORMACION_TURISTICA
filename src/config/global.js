@@ -50,19 +50,19 @@ export default {
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema4',
         numero: '4',
         titulo: 'Inventario turístico',
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema5',
         numero: '5',
         titulo: 'Valoración de los atractivos turísticos',
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema6',
         numero: '6',
         titulo: 'Servicios complementarios',
         desarrolloContenidos: true,
