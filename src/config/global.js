@@ -115,31 +115,207 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Ministerio de comercio y turismo',
+      referencia:
+        'Metodología para la elaboración del inventario de atractivos turísticos',
+      tipo: 'Pdf',
+      link:
+        'https://www.casadeculturapiedradelsol.gov.co/wp-content/uploads/2014/09/METODOLOGIA-PARA-LA-ELABORACION-DEL-INVENTARIO-DE-ATRACTIVOS-TURISTICOS.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Unesco',
+      referencia: 'Identificar e inventariar el patrimonio cultural inmaterial',
+      tipo: 'Pdf',
+      descarga: 'https://ich.unesco.org/doc/src/01856-ES.pdf ',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: '<em>Adprosumer</em>',
+      significado:
+        'el cliente satisfecho con un producto o servicio comparte su experiencia positiva con el resto de los clientes y se convierte en su mejor prescriptor. La fuerza que tiene un cliente satisfecho es incalculable.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Agencia de viajes',
+      significado:
+        'empresa turística dedicada a la intermediación, organización y realización de proyectos, planes e itinerarios; a la elaboración y venta de productos turísticos entre sus clientes y determinados proveedores de viajes, como por ejemplo: transportistas (aerolíneas, cruceros) y servicio de alojamiento (hoteles); con el objetivo de poner los bienes y servicios turísticos a disposición de quienes deseen y puedan utilizarlos.',
+    },
+    {
+      termino: 'Agroturismo',
+      significado:
+        'es una forma de turismo en la que la cultura rural es aprovechada económicamente para brindar diversas opciones de turismo.',
+    },
+    {
+      termino: 'Área',
+      significado:
+        'zona o superficie marcada, que se distingue de lo que la rodea. Espacio de acción o ámbito en el que se desarrolla una actividad.',
+    },
+    {
+      termino: 'Atractivo turístico',
+      significado:
+        'lugar, bien o característica específica; tangible o intangible, que tiene el poder de atraer al turista y motivar su desplazamiento. Puede ser de tipo natural (creados sin la intervención humana) o cultural (creados por el hombre).',
+    },
+    {
+      termino: 'Calidad',
+      significado:
+        'conjunto de características que le confieren a un producto o servicio, los atributos necesarios para satisfacer necesidades implícitas y expresadas.',
+    },
+    {
+      termino: 'Circuito turístico',
+      significado:
+        'ilustraciones preliminares que visualizan conceptos y diseños para proyectos, sirviendo como referencia para el desarrollo final.',
+    },
+    {
+      termino: 'Destino turístico',
+      significado:
+        'lugar visitado durante un viaje. Puede definirse como el punto más alejado de la residencia habitual visitado (destino de distancia), el lugar donde se ha pasado mayor parte del tiempo (destino principal), o el lugar que el visitante concibe como el más importante que ha visitado (destino de motivación).',
+    },
+    {
+      termino: 'El <em>consumer</em>',
+      significado:
+        'es el turista clásico, el cual se limita a consumir el producto turístico, el turista que entrega la preparación de sus vacaciones a profesionales y que se deja persuadir en un grado importante.',
+    },
+    {
+      termino: 'El <em>prosumer</em>',
+      significado:
+        'le gusta crear su propio producto, desde que le nace la necesidad del viaje, es un consumidor activo el cual utiliza internet para para documentarse de aquellos servicios que le satisfacen a la hora de elegir algun.',
+    },
+    {
+      termino: 'El turismo ecológico o ecoturismo',
+      significado:
+        'es una nueva tendencia del Turismo Alternativo diferente al Turismo tradicional. Es un enfoque para las actividades turísticas en el cual se privilegia la sustentabilidad,la preservación, la apreciación del medio que acoge y sensibiliza a los viajantes.',
+    },
+    {
+      termino: 'excursionista',
+      significado:
+        'persona que realiza un viaje fuera de su entorno habitual y que no pernocta en el lugar visitado. Dicho viaje se realiza por cualquier motivo diferente al de ejercer una actividad remunerada en el lugar visitado.',
+    },
+    {
+      termino: 'Estructura',
+      significado:
+        'llamada Planta Turística, está conformada por las edificaciones, instalaciones, organizaciones públicas y privadas dirigidas a la satisfacción del consumidor o usuario del servicio turístico, durante la comercialización, venta, producción y realización de este. Comprende los servicios de transporte, alojamiento u hospedaje; de alimentos y bebidas, de recreación o entretenimiento y servicios complementarios.',
+    },
+    {
+      termino: 'Facilidades turísticas',
+      significado:
+        'comprende el conjunto de bienes y servicios que hacen posible la actividad turística. Se refiere a las instalaciones donde los visitantes pueden satisfacer sus necesidades y los servicios complementarios para la práctica del turismo. “Conjunto de requerimientos que hacen agradable la experiencia del visitante durante su visita al lugar que le ha motivado como objetivo de viaje.” (Castrillón Muñoz, 2010).',
+    },
+    {
+      termino: 'Interdependientes',
+      significado:
+        'dependencia mutua entre personas, entidades o naciones. Relación por la que dos o más personas o cosas dependen unas de otras.',
+    },
+    {
+      termino: 'Infraestructura',
+      significado:
+        'elemento visual que simula la superficie de un objeto, contribuyendo al realismo y la profundidad en la ilustración digital.',
+    },
+    {
+      termino: 'Itinerario:',
+      significado:
+        'ruta que se sigue para llegar a un lugar; es la dirección y descripción de un camino con expresión de los lugares, accidentes, paradas, distancias, etc., que existen a lo largo de él. En él se incluye la lista de datos referentes a un viaje.',
+    },
+    {
+      termino: 'Mercado turístico',
+      significado:
+        'lugar donde confluyen la oferta de productos y servicios turísticos, junto con la demanda de los mismos productos y servicios turísticos.',
+    },
+    {
+      termino: 'Paquete turístico',
+      significado:
+        'conjunto de bienes y servicios turísticos que se venden al viajero por medio de las agencias de viaje o de las líneas áreas. Comprende servicios de transporte, alojamiento, alimentación, recreación y excursiones; éstas se comercializan como un solo producto o marca, y se vende con un precio unitario (dentro del paquete) en un tiempo determinado.',
+    },
+    {
+      termino: 'Región',
+      significado:
+        'porción de territorio en que se divide una nación, definida por rasgos geográficos, históricos, climáticos y sociales; puede subdividirse en departamentos, municipios u otras unidades administrativas.',
+    },
+    {
+      termino: 'Ruta histórica',
+      significado:
+        'producto de turismo basado en temas del patrimonio cultural, referido a rutas históricas, personajes ilustres, artistas; incluso, a monumentos particulares de patrimonio construido por una cultura. En su mayoría, están señalizadas sobre el terreno o delante del monumento en cuestión.',
+    },
+    {
+      termino: 'Ruta temática',
+      significado:
+        'dan a conocer aquellas labores relacionadas con la naturaleza y bajo impacto ambiental. En ellas, se muestran los oficios antiguos y, de alguna manera, se propicia que el patrimonio se mantenga con vida; puede disfrutarse mediante la combinación de actividades culturales, de compras, de gastronomía y senderismo; estas actividades resultan afines y compatibles con el conocimiento que se desea transmitir a través de la ruta a los turistas; también abarca rutas históricas y turísticas.',
+    },
+    {
+      termino: 'Servicios turísticos',
+      significado:
+        'el cliente satisfecho con un producto o servicio comparte su experiencia positiva con el resto de los clientes y se convierte en su mejor prescriptor. La fuerza que tiene un cliente satisfecho es incalculable.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Barrios Salas, L. A. (21 de agosto de 2009). Elaboración de circuitos eléctricos. Recuperado el octubre de 2014, de Scribed.: ',
+      link:
+        'http://es.scribd.com/doc/18972548/Elaboracion-de-un-Circuito-Turistico ',
+    },
+    {
+      referencia:
+        'Blogspot.com. (2009). tipos de clientes y su clasificación. recuperado el 5 de Noviembre de 2014',
+      link:
+        'http://afvtgt09.blogspot.com/2009/10/tipos-de-cliente-y-su-clasificacion.html ',
+    },
+    {
+      referencia:
+        'Castrillón Muñoz, J. (4 de febrero de 2010). Facilidades turísticas (definición).Recuperado el 9 de octubre de 2013',
+      link:
+        ' http://boletin-turistico.com/diccionarioturismo/Diccionario-1/F/FACILIDADES-2239/',
+    },
+    {
+      referencia:
+        'Dueñas, P. (22 de octubre de 2011). Producto turístico. recuperado el 26 de noviembre de 2014, de slideshare:',
+      link: '',
+    },
+    {
+      referencia:
+        'Ejarque, J. (2009). El Turista Cliente. Recuperado el 5 de noviembre de 2014',
+      link: '',
+    },
+    {
+      referencia:
+        'Germán Sierra Anaya, M. R. (2006). Introducción al mercado turístico. Cartagena: Universitaria. gonzález Ferrer, J. R. (s.f.). Conceptuación del Producto Turístico. Recuperado el 24 de noviembre de 2014',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Distrital de Turismo - ANATO. (22 de 11 de 2008). Manual para el diseño de paquetes turísticos. recuperado el 24 de noviembre de 2014',
+      link: '',
+    },
+    {
+      referencia:
+        'minep - Ministerio para la Economía Popular. (2005). Aspectos generales de turismo y alojamiento. recuperado el 19 de 02 de 2014',
+      link: 'http://es.scribd.com/doc/6801115/Turismo-y-Alojamiento',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (10 de enero de 2010). Metodología para la elaboración del Inventario de atractivos turísticos. Recuperado el 31 de octubre de 2012',
+      link: '',
+    },
+    {
+      referencia:
+        'Muñiz González, R. (2014). Atributos de Producto. Recuperado el 24 de Noviembre de 2014, de Marketing- XXI:',
+      link:
+        'http://www.slideshare.net/urania31k/el-producto-turstico?from_search=2',
+    },
+    {
+      referencia:
+        'Sobejano, J. (febrero de 2009). Los Distintos Modelos del Nuevo Cliente Turístico. Recuperado el 5 de noviembre de 2014tractivos turísticos. Recuperado el 31 de octubre de 2012',
+      link:
+        'http://www.hosteltur.com/58823_distintos-modelos-nuevo-cliente-turistico.html',
+    },
+    {
+      referencia:
+        'Universidad técnica estatal de quevedo. (junio de 2013). Senderos ecoturísticos en la finca experimental “ La Represa”. Recuperado el 13 de noviembre de 2014',
+      link:
+        'http://www.uea.edu.ec/jspui/bitstream/biblioteca/175/1/TESIS%20DE%20ABIGAIL%20PAOLA%20VEGA%20VARGAS.pdf',
+    },
+    {
+      referencia:
+        'Valencia, J. (octubre de 2014). Diccionario de Términos Turísticos. Recuperado el 12 de noviembre de 2014, de boletin-turistico.com: ',
       link: '',
     },
   ],
@@ -148,14 +324,44 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
-          centro: 'Dirección General',
+          nombre: 'José Armando Díaz Londoño',
+          cargo: 'Desarrollador de contenido',
+          centro: 'Centro de comercio y servicios Regional caldas',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Olga Beatriz Zuleta Arango',
+          cargo: 'Experto temático',
+          centro: 'Centro de comercio y servicios Regional caldas.',
+        },
+        {
+          nombre: 'Gualberto Enrique Benítez',
+          cargo: 'Experto temático',
+          centro: 'Centro de comercio y servicios Regional caldas.',
+        },
+        {
+          nombre: 'José Armando Díaz Londoño',
+          cargo: 'Experto temático',
+          centro: 'Centro de comercio y servicios Regional caldas.',
+        },
+        {
+          nombre: 'Rosa Elvia Quintero Guasca',
+          cargo: 'Asesora pedagógica',
+          centro: 'Centro de comercio y servicios Regional caldas.',
+        },
+        {
+          nombre: 'Luis Orlando Beltrán Vargas',
+          cargo: 'Asesora pedagógica',
+          centro: 'Centro de comercio y servicios Regional caldas.',
+        },
+        {
+          nombre: 'José Armando Díaz Londoño',
+          cargo: 'Líder de expertos temáticos.',
+          centro: 'Centro de comercio y servicios Regional caldas.',
+        },
+        {
+          nombre: 'Santiago Lozada Garcés',
+          cargo: 'Líder línea de producción.',
+          centro: 'Centro de comercio y servicios Regional caldas.',
         },
       ],
     },

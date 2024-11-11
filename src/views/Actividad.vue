@@ -20,168 +20,396 @@ export default {
       preguntas: [
         {
           id: 1,
-          texto: '¿Cuál es la capital de Francia?',
+          texto:
+            '¿¿Qué elemento es clave en la asesoría turística basada en las necesidades del cliente?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'París', esCorrecta: true },
-            { id: 'b', texto: 'Londres', esCorrecta: false },
-            { id: 'c', texto: 'Berlín', esCorrecta: false },
-            { id: 'd', texto: 'Madrid', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Ofrecer los paquetes turísticos más caros.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Conocer las expectativas y preferencias individuales del cliente',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sugerir destinos internacionales sin preguntar al cliente',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Ignorar el presupuesto del cliente para centrarse solo en el destino.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 2,
-          texto: '¿Cuál es el planeta más cercano al Sol?',
+          texto:
+            '¿Cómo debe un asesor turístico abordar la solicitud de un cliente que busca un destino con actividades de aventura?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Venus', esCorrecta: false },
-            { id: 'b', texto: 'Mercurio', esCorrecta: true },
-            { id: 'c', texto: 'Tierra', esCorrecta: false },
-            { id: 'd', texto: 'Marte', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Ofrecerle un paquete de turismo cultural.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Sugerirle un destino con playas relajantes.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Ofrecer opciones basadas en su interés por actividades de aventura',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Mandar una lista de todos los destinos posibles sin filtro',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 3,
-          texto: "¿Quién escribió 'Cien años de soledad'?",
+          texto:
+            '¿Qué factor es esencial al ofrecer asesoría turística a un cliente con restricciones de tiempo y presupuesto limitado?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Gabriel García Márquez', esCorrecta: true },
-            { id: 'b', texto: 'Mario Vargas Llosa', esCorrecta: false },
-            { id: 'c', texto: 'Jorge Luis Borges', esCorrecta: false },
-            { id: 'd', texto: 'Pablo Neruda', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Recomendarle destinos lejanos y exclusivos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Proponer opciones de alto costo sin tener en cuenta el presupuesto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Ofrecer alternativas dentro del presupuesto y ajustadas al tiempo disponible',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Ignorar sus restricciones y ofrecer solo las opciones más populares.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 4,
-          texto: '¿Cuál es el elemento químico con el símbolo H?',
+          texto:
+            '¿Cómo se puede personalizar una oferta turística para un cliente con intereses en ecoturismo?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Helio', esCorrecta: false },
-            { id: 'b', texto: 'Hidrógeno', esCorrecta: true },
-            { id: 'c', texto: 'Hierro', esCorrecta: false },
-            { id: 'd', texto: 'Hafnio', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Ofreciendo paquetes con actividades masivas en ciudades.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Sugerir destinos naturales y sostenibles que promuevan el ecoturismo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Ofrecer viajes a centros comerciales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Proponer actividades urbanas sin relación con la naturaleza.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 5,
-          texto: '¿Cuál es el idioma más hablado del mundo?',
+          texto:
+            '¿Cuál es el primer paso para ofrecer una asesoría turística efectiva?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Inglés', esCorrecta: false },
-            { id: 'b', texto: 'Español', esCorrecta: false },
-            { id: 'c', texto: 'Chino mandarín', esCorrecta: true },
-            { id: 'd', texto: 'Árabe', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Dar un paquete turístico al azar.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Conocer las expectativas, intereses y necesidades del cliente.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Ofrecer las opciones más económicas sin consultar al cliente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Sugerir destinos populares sin preguntar al cliente',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 6,
-          texto: '¿En qué año llegó el hombre a la Luna?',
+          texto:
+            '¿Cuándo un cliente expresa la necesidad de un viaje de relax, ¿qué tipo de destino debería recomendar el asesor turístico',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '1969', esCorrecta: true },
-            { id: 'b', texto: '1972', esCorrecta: false },
-            { id: 'c', texto: '1965', esCorrecta: false },
-            { id: 'd', texto: '1959', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Un destino con actividades físicas intensas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Un destino con playas tranquilas y spas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Un destino con parques de diversiones',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Un destino con montañas y deportes extremos.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 7,
-          texto: '¿Qué río atraviesa la ciudad de Londres?',
+          texto:
+            '¿Qué rol juega la comunicación efectiva en la asesoría turística?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Río Támesis', esCorrecta: true },
-            { id: 'b', texto: 'Río Danubio', esCorrecta: false },
-            { id: 'c', texto: 'Río Sena', esCorrecta: false },
-            { id: 'd', texto: 'Río Rin', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Permite ofrecer opciones sin consultar al cliente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Ayuda a identificar de manera clara las necesidades y expectativas del cliente',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Solo se necesita al momento de realizar la venta.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'No es relevante si el cliente tiene un presupuesto limitado.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 8,
-          texto: '¿Quién pintó la Mona Lisa?',
+          texto:
+            '¿Qué tipo de información es crucial para entender las expectativas de un cliente antes de ofrecerle un paquete turístico?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Leonardo da Vinci', esCorrecta: true },
-            { id: 'b', texto: 'Pablo Picasso', esCorrecta: false },
-            { id: 'c', texto: 'Vincent van Gogh', esCorrecta: false },
-            { id: 'd', texto: 'Claude Monet', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'La duración del viaje y el tipo de actividades que prefiere.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Solo su edad y lugar de residencia.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Su disposición a gastar en actividades turísticas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Cuánto tiempo lleva sin viajar.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 9,
-          texto: '¿Cuál es el océano más grande del mundo?',
+          texto:
+            '¿Qué tipo de clientes puede buscar un servicio de asesoría turística personalizada?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Océano Atlántico', esCorrecta: false },
-            { id: 'b', texto: 'Océano Índico', esCorrecta: false },
-            { id: 'c', texto: 'Océano Pacífico', esCorrecta: true },
-            { id: 'd', texto: 'Océano Ártico', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Todos los tipos de clientes, desde los que buscan lujo hasta los que prefieren turismo económico.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Solo clientes que viajan en grupo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Clientes que buscan un destino de playa únicamente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Clientes con intereses generales, sin necesidad de personalización',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 10,
-          texto: '¿Qué invento se le atribuye a Alexander Graham Bell?',
+          texto:
+            '¿Si un cliente desea realizar un viaje cultural, ¿qué aspecto debe priorizar el asesor turístico?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Teléfono', esCorrecta: true },
-            { id: 'b', texto: 'Telégrafo', esCorrecta: false },
-            { id: 'c', texto: 'Bombilla', esCorrecta: false },
-            { id: 'd', texto: 'Radio', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Destinos con actividades deportivas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Destinos que ofrezcan una rica oferta cultural, como museos y sitios históricos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Destinos con alta exclusividad, pero sin valor cultural.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Destinos sin información histórica o cultural',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 11,
-          texto: '¿Qué continente alberga la selva amazónica?',
+          texto:
+            '¿Cuál es la mejor forma de garantizar una experiencia satisfactoria al cliente en la asesoría turística?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'África', esCorrecta: false },
-            { id: 'b', texto: 'Asia', esCorrecta: false },
-            { id: 'c', texto: 'América del Sur', esCorrecta: true },
-            { id: 'd', texto: 'Oceanía', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Ofrecer paquetes con muchas actividades para que el cliente no se aburra',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Personalizar la oferta según sus intereses y necesidades específicas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Asegurarse de que el cliente gaste el máximo posible en cada actividad.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Proponer el destino más cercano sin preguntar al cliente.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 12,
-          texto: '¿Cuál es el animal más rápido del mundo?',
+          texto:
+            '¿Qué tipo de asesoría turística sería adecuada para un cliente que viaja por negocios?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Tigre', esCorrecta: false },
-            { id: 'b', texto: 'León', esCorrecta: false },
-            { id: 'c', texto: 'Guepardo', esCorrecta: true },
-            { id: 'd', texto: 'Jaguar', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Ofrecer destinos turísticos masivos sin planificación previa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Ofrecer paquetes relajantes y sin agenda definida.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sugerir destinos con infraestructura adecuada para negocios y eventos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Recomendar viajes de aventura y ecoturismo.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
@@ -189,116 +417,269 @@ export default {
         {
           id: 13,
           texto:
-            '¿Qué órgano es responsable de bombear la sangre en el cuerpo?',
+            '¿En una asesoría turística, ¿por qué es importante conocer las expectativas emocionales de los clientes?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Cerebro', esCorrecta: false },
-            { id: 'b', texto: 'Pulmones', esCorrecta: false },
-            { id: 'c', texto: 'Corazón', esCorrecta: true },
-            { id: 'd', texto: 'Hígado', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Para darles el destino más económico sin tomar en cuenta sus deseos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Para ofrecerles destinos que coincidan con su estado emocional o lo que buscan experimentar en el viaje.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Para llenar su itinerario de actividades que no les interesen.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Para asegurar que el cliente gaste lo máximo posible en actividades turísticas.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 14,
-          texto: "¿Quién es el autor de 'Don Quijote de la Mancha'?",
+          texto:
+            '¿Qué es fundamental tener en cuenta cuando un cliente tiene necesidades de accesibilidad debido a una discapacidad?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Miguel de Cervantes', esCorrecta: true },
-            { id: 'b', texto: 'Federico García Lorca', esCorrecta: false },
-            { id: 'c', texto: 'Lope de Vega', esCorrecta: false },
-            { id: 'd', texto: 'Pedro Calderón de la Barca', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Sugerir destinos sin información sobre accesibilidad.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Ofrecer destinos y actividades que no consideren las necesidades especiales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Proponer opciones que cuenten con infraestructura accesible, como alojamientos y transportes adaptados.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'No considerar estas necesidades y ofrecer solo las opciones estándar',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 15,
-          texto: '¿Qué gas utilizan las plantas durante la fotosíntesis?',
+          texto:
+            '¿Qué estrategia puede utilizar un asesor turístico para abordar las expectativas cambiantes de los clientes durante un proceso de asesoría?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Oxígeno', esCorrecta: false },
-            { id: 'b', texto: 'Dióxido de carbono', esCorrecta: true },
-            { id: 'c', texto: 'Nitrógeno', esCorrecta: false },
-            { id: 'd', texto: 'Hidrógeno', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Ignorar los cambios y seguir con la oferta inicial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Escuchar activamente y ajustar las opciones según las nuevas expectativas del cliente.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Forzar al cliente a elegir entre las opciones ya propuestas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Sugerirle las opciones más caras para que se sienta satisfecho.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 16,
-          texto: '¿Quién fue el primer presidente de los Estados Unidos?',
+          texto:
+            '¿Cuándo un cliente solicita un paquete turístico personalizado, ¿qué tipo de información adicional es relevante recabar?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Thomas Jefferson', esCorrecta: false },
-            { id: 'b', texto: 'George Washington', esCorrecta: true },
-            { id: 'c', texto: 'Abraham Lincoln', esCorrecta: false },
-            { id: 'd', texto: 'John Adams', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Sólo sus datos personales básicos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Su presupuesto, intereses específicos, fechas de viaje y preferencias sobre el tipo de alojamiento.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Solo su lugar de origen y destino.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Solo sus preferencias sobre el tipo de comida durante el viaje',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 17,
-          texto: '¿Qué país tiene el mayor número de habitantes?',
+          texto:
+            '¿Qué debe hacer un asesor turístico si un cliente no está satisfecho con las opciones iniciales presentadas?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'India', esCorrecta: false },
-            { id: 'b', texto: 'Estados Unidos', esCorrecta: false },
-            { id: 'c', texto: 'China', esCorrecta: true },
-            { id: 'd', texto: 'Rusia', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Ignorar sus comentarios y insistir en las mismas opciones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Escuchar atentamente sus comentarios y ofrecer nuevas opciones ajustadas a sus expectativas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Sugerirle opciones más caras para que quede conforme.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'No ofrecerle nuevas opciones y cerrarlo con una venta estándar.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 18,
-          texto: '¿Qué es el fenómeno de la refracción?',
+          texto:
+            '¿Qué aspecto es esencial al personalizar un paquete turístico para un cliente familiar?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'La dispersión de la luz', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Ofrecer solo actividades para adultos.',
+              esCorrecta: false,
+            },
             {
               id: 'b',
-              texto: 'El cambio de dirección de la luz',
+              texto:
+                'Tener en cuenta la diversidad de edades y las actividades adecuadas para todos los miembros de la familia.',
               esCorrecta: true,
             },
-            { id: 'c', texto: 'La absorción de la luz', esCorrecta: false },
-            { id: 'd', texto: 'La emisión de luz', esCorrecta: false },
+            {
+              id: 'c',
+              texto: 'Proponer solo destinos para grupos grandes',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Ofrecer solo actividades deportivas extremas',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 19,
-          texto: '¿Cuál es el símbolo químico del oro?',
+          texto:
+            'Cuando un cliente tiene un interés en un destino específico, ¿cómo debe responder un asesor turístico?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Ag', esCorrecta: false },
-            { id: 'b', texto: 'Au', esCorrecta: true },
-            { id: 'c', texto: 'Fe', esCorrecta: false },
-            { id: 'd', texto: 'Cu', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Ignorar su preferencia y ofrecer otros destinos sin justificación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Indicarle las opciones disponibles en ese destino y ajustarlas a sus necesidades',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Ofrecerle únicamente lo más caro en ese destino.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Sugerirle un destino completamente diferente sin consultarle.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 20,
-          texto: '¿En qué año comenzó la Segunda Guerra Mundial?',
+          texto:
+            '¿Por qué es importante conocer la cultura y costumbres del destino al ofrecer asesoría turística?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '1914', esCorrecta: false },
-            { id: 'b', texto: '1939', esCorrecta: true },
-            { id: 'c', texto: '1945', esCorrecta: false },
-            { id: 'd', texto: '1929', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Para evitar que el cliente se sienta incómodo durante su estancia.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'Para ajustar la oferta de actividades al comportamiento esperado de los turistas',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Para ofrecer únicamente destinos exóticos',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Para sugerir destinos donde el cliente no esté familiarizado con las costumbres locales',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
