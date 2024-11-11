@@ -54,8 +54,74 @@
         figure
           img(src='@/assets/curso/temas/tema3/img-3.svg', alt='')
 
+    .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
+      .col-auto.pe-2.mt-1.fnd-t
+        h5 Determinantes personales del comportamiento del consumidor  
 
+      .col-lg-8
+        p Son varios los factores que influyen en la evolución del comportamiento de un consumidor, y como se ubican estos factores en su mente, los cuales ayudan a encontrar el servicio ideal para su satisfacción, de los cuales podemos encontrar: 
+
+      .row
+        .col-lg-4
+          .tarjeta-avatar-b.mb-5
+            .tarjeta-avatar-b__img
+              img(src='@/assets/curso/temas/tema3/img-4.svg', alt='')
+            .tarjeta.tarjeta--azul
+              .p-4         
+                p El destino.
      
+        .col-lg-4
+          .tarjeta-avatar-b.mb-5
+            .tarjeta-avatar-b__img
+              img(src='@/assets/curso/temas/tema3/img-5.svg', alt='')
+            .tarjeta.tarjeta--azul
+              .p-4
+                p La disponibilidad de servicios.      
+      
+        .col-lg-4
+          .tarjeta-avatar-b.mb-5
+            .tarjeta-avatar-b__img
+              img(src='@/assets/curso/temas/tema3/img-6.svg', alt='')
+            .tarjeta.tarjeta--azul
+              .p-4
+                p La diferencia de precios. 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.col-md-8
+        figure.mb-md-4.mb-lg-0
+          img(src='@/assets/curso/temas/tema3/img-8.svg', alt='')
+      .col-lg-8       
+        p <b>La actitud y la percepción de los destinos y organizaciones turísticas son otros de los determinantes del comportamiento del consumidor como son:</b>
+        p Las preferencias por países o culturas.
+        p La situación política.
+        p Miedo a ciertas formas de viaje como el avión, crucero, tren, automóvil.
+        p Con cuanta anticipación planifican.
+        p Las ideas que tienen acerca del valor-dinero.
+        p <b>Otro determinante es la experiencia en:</b> 
+        p Tipos de vacaciones 
+        p Diferentes destinos 
+        p Diferentes ofertas
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.col-md-8
+        figure.mb-md-4.mb-lg-0
+          img(src='@/assets/curso/temas/tema3/img-9.png', alt='')
+
+    .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
+      .col-auto.pe-2
+        img(src="@/assets/curso/temas/tema1/img-6.png")
+      .col.px-0
+        h3 Clasificación de los atractivos turísticos
+
+        p.mb-0 Son todos aquellos puntos de interés que por sus características llaman la atención de los turistas. Los atractivos turísticos se constituyen en parte del Producto Turístico; pueden estar conformados por acción propia de la naturaleza, o por elementos derivados de la acción humana.
+        p Cada región debe evaluar objetivamente los recursos y sus atractivos aptos para uso turístico, y estos a su vez se clasifican en dos grupos:
+
+   
+    .row.justify-content-center.align-items-center.fnd-5
+      .col-xl-10.col-lg-9
+        p.mb-0 Los atractivos turísticos de Colombia son fundamentales para su identidad cultural y desarrollo económico. Se destacan por su biodiversidad, patrimonio histórico y riqueza cultural. Desde paisajes naturales como el Parque Tayrona hasta la arquitectura colonial de Cartagena, cada destino brinda experiencias únicas e inolvidables.                     
+
+
 
 </template>
 
