@@ -90,7 +90,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-10
-        ImagenInfografica.color-secundario.mb-5
+        ImagenInfografica.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema3/img-3.svg', alt='Texto que describa la imagen')
@@ -143,8 +143,8 @@
                   p.mb-0 La diferencia de precios. 
 
         .row.justify-content-center.align-items-center.mb-5.fnd-8.py-4
-          .col-lg-3.col-md-8
-            figure.mb-md-4.mb-lg-0
+          .col-xl-3.col-lg-4.col-md-6.col-6
+            figure.mb-4
               img(src='@/assets/curso/temas/tema3/img-8.svg', alt='')
           .col-lg-8       
             h5 La actitud y la percepción de los destinos y organizaciones turísticas son otros de los determinantes del comportamiento del consumidor como son: 

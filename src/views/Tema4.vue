@@ -6,10 +6,10 @@
       .titulo-principal__numero
         span 4
       h1 Inventario turístico
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-8            
         p Registro de elementos que, por sus características y particulares cualidades naturales o culturales, tienen significación de atractivo para el turismo, lo cual implica un capital a manera de reserva, que puede brindar grandes posibilidades de desarrollo turístico para una región o país.
-        p Es importante recalcar que los inventarios de atractivos turísticos, junto con otros insumos de información producidos en los procesos de planificación turística, constituyen elementos de trascendencia para la toma de decisiones en materia de turismo, tanto para el sector público como para el privado, en los niveles regionales y nacionales. El resultado de un inventario turístico debe facilitar el trabajo a los actores regionales y municipales del turismo, propiciando el diálogo armónico con miras a la diversificación y consolidación de nuevos productos turísticos competitivos:
+        p.mb-4 Es importante recalcar que los inventarios de atractivos turísticos, junto con otros insumos de información producidos en los procesos de planificación turística, constituyen elementos de trascendencia para la toma de decisiones en materia de turismo, tanto para el sector público como para el privado, en los niveles regionales y nacionales. El resultado de un inventario turístico debe facilitar el trabajo a los actores regionales y municipales del turismo, propiciando el diálogo armónico con miras a la diversificación y consolidación de nuevos productos turísticos competitivos:
         
       .col-lg-4.col-md-6.mb-0.mb-md-4
         figure

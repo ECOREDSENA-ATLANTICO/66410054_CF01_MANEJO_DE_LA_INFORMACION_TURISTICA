@@ -8,7 +8,7 @@
       h1 Valoración de los atractivos turísticos
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.col-md-6
+      .col-lg-4.col-md-6.mb-4
         figure
           img(src='@/assets/curso/temas/tema5/img-1.png')
       .col-lg-8
