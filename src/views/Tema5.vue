@@ -214,8 +214,6 @@
                 p.mb-4 Identificar los recursos sobre los cuales es posible establecer acciones de promoción, para que motiven desplazamientos hacia el destino donde estos se encuentran. (Ministerio de Comercio, Industria y Turismo, 2010).
 
 
-
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-xl-10.fnd-6.fnd-6-1
         .row.align-items-center.fnd-5
@@ -225,6 +223,102 @@
           .col-xl-2.col-lg-3
             figure.fl-box-img.img-3
               img(src='@/assets/curso/temas/tema5/img-12.png' alt='Background Image')
+
+    
+    .titulo-sexto.color-acento-contenido
+      h5 Tabla.1 
+        span Grado de reconocimiento
+
+    p También hay que tener en cuenta las percepciones afectivas, dada su importancia local; éstas se determinan por el conocimiento que del sitio tengan los mercados turísticos, de acuerdo con las siguientes fuentes:
+
+    .row.justify-content-center.align-items-center.mb-5.fnd-8-4
+      .col-lg-4.col-md-8
+        figure
+          img(src='@/assets/curso/temas/tema5/img-13.png')
+
+      .col-lg-8
+        .row.pe-lg-3(data-aos="zoom-in")
+          .col-auto.pe-2.mt-1
+            img(src="@/assets/curso/temas/tema5/check.svg")
+          .col.px-0
+            p.mb-0 Guías de promoción turística nacional o internacional; sean éstas digitalizadas para presentación virtual o impresa.
+        .row.pe-lg-3(data-aos="zoom-in")
+          .col-auto.pe-2.mt-1
+            img(src="@/assets/curso/temas/tema5/check.svg")
+          .col.px-0
+            p.mb-0 Paquetes turísticos diseñados y operados por agencias de viajes locales, regionales y nacionales.
+        .row.pe-lg-3(data-aos="zoom-in")
+          .col-auto.pe-2.mt-1
+            img(src="@/assets/curso/temas/tema5/check.svg")
+          .col.px-0
+            p.mb-0 Paquetes turísticos diseñados por agencias de viajes mayoristas (tour operadores), nacionales o internacionales.
+        .row.pe-lg-3(data-aos="zoom-in")
+          .col-auto.pe-2.mt-1
+            img(src="@/assets/curso/temas/tema5/check.svg")
+          .col.px-0
+            p.mb-0 Revistas especializadas en turismo, de orden regional, nacional o internacional; virtual o impreso.
+    p.mb-3 Cuando un bien cultural o natural no cuenta con reconocimiento frente a los mercados turísticos, queda como un recurso turístico; y, como componente de un producto turístico, puede ser susceptible de acciones de mejoramiento y promoción, para integrarlo posteriormente en procesos de la cadena productiva del turismo.
+    p.mb-3 Para efectos de determinar la vocación turística de un destino y la elaboración del inventario de atractivos turísticos, los municipios que cuenten sólo con bienes de significado local, se considera que habrán realizado la identificación de un recurso turístico.
+
+    
+    .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
+      .col-auto.pe-2
+        img(src="@/assets/curso/temas/tema1/img-6.png")
+      .col.px-0
+        h3.mb-0 Asignación de puntaje
+      p Herramientas técnicas basada en criterios seleccionados y adaptados para la toma de decisiones en materia de gestión turística. Su puntaje se deriva del nivel de importancia para cada criterio:
+
+    .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
+      .col-auto.pe-2.mt-1.fnd-t
+        h5 Criterios para la Valoración de Sitios Naturales:  
+      p La valoración de los recursos naturales facilita la toma de decisiones para implementar una actividad recreativa sobre un determinado sistema, considerando su sensibilidad a la intervención humana, así como, la valoración del recurso tomando como base su atractivo turístico.
+  
+      .col-auto.pe-2
+        img(src="@/assets/curso/temas/tema1/img-6.png")
+      .col.px-0
+        h3.mb-0 Calidad
+      p Tiene en cuenta el estado de conservación de los atractivos a nivel ambiental, es decir, la escasa o nula presencia de deterioro, ocasionado por contaminantes primarios como residuos de petróleo, detergentes, plásticos y latas; igualmente, contaminantes secundarios como ruidos, olores desagradables y obstrucción visual. Los criterios por considerar para evaluar la calidad son:
+
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.col-md-8.order-2.order-lg-1
+        figure.mb-md-4.mb-lg-5
+          img(src='@/assets/curso/temas/tema5/img-15.png', alt='')
+      .col-lg-8.order-1.order-lg-2
+        SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
+          .tarjeta.fnd-8-1.p-4
+            h5.text-center Sin contaminación del aire:
+            p.mb-0.text-center Generalmente representada por niebla contaminante proveniente de automóviles y plantas industriales; éste fenómeno causa daños en el ecosistema causando grandes pérdidas.
+          .tarjeta.fnd-8-1.p-4
+            h5.text-center Sin contaminación del agua:  
+            p.mb-0.text-center Provocada por elementos químicos mediante el derrame de combustibles (gasolina y derivados del petróleo) en los mantos acuíferos. También se puede provocar por escurrimientos de fertilizantes utilizados en las zonas agrícolas, y por el uso de jabones y detergentes caseros, trasladados por las aguas servidas.
+          .tarjeta.fnd-8-1.p-4
+            h5.text-center Sin contaminación visual:  
+            p.mb-0.text-center Originada en el empleo de arquitectura inadecuada, obstrucción visual por propaganda y dispersión de basuras.
+          .tarjeta.fnd-8-1.p-4
+            h5.text-center Sin contaminación sonora:   
+            p.mb-0.text-center Representada en niveles que impiden el disfrute de la naturaleza.           
+          .tarjeta.fnd-8-1.p-4
+            h5.text-center Estado de conservación:   
+            p.mb-0.text-center Situación en que se encuentra la fauna y la flora del lugar; si hay presencia de erosión o manifestaciones de actividades extractivas de supervivencia.
+          .tarjeta.fnd-8-1.p-4
+            h5.text-center Diversidad   
+            p.mb-0.text-center Riqueza de aspectos a observar (diversidad de especies de flora o fauna) y de hábitats o paisajes (vistas panorámicas, topografía), olores, altitud y temperatura.
+          .tarjeta.fnd-8-1.p-4
+            h5.text-center Singularidad:    
+            p.mb-0.text-center Son rasgos excepcionales o únicos. En la flora y fauna se denominan endemismo (no se encuentra sino en un área restringida),o relictuales (especies aparentemente desaparecidas evolutivamente).En paisajes se podría definir como que no se encuentra otro de características similares en un ámbito determinado (rareza).
+    .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
+      .col-auto.pe-2
+        img(src="@/assets/curso/temas/tema1/img-6.png")
+      .col.px-0
+        h3.mb-0 Significado
+      p Determinado por el grado de reconocimiento que del atractivo se tenga, ya sea en su entorno local para el caso de un área municipal; regional, para un área de uno o más departamentos; o, nacional, con reconocimiento dentro del país.
+
+      p El turismo de naturaleza y el ecoturismo se reconocen como formas de turismo particularmente enriquecedora y valorizadora, siempre que se respeten el patrimonio natural y la población local; ajustándola a la capacidad de ocupación de los lugares turísticos   
+
+
+
+
 
 
 
