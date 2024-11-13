@@ -126,7 +126,7 @@ export default {
       tema: 'Unesco',
       referencia: 'Identificar e inventariar el patrimonio cultural inmaterial',
       tipo: 'Pdf',
-      descarga: 'https://ich.unesco.org/doc/src/01856-ES.pdf ',
+      link: 'https://ich.unesco.org/doc/src/01856-ES.pdf ',
     },
   ],
   glosario: [
@@ -249,7 +249,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Barrios Salas, L. A. (21 de agosto de 2009). Elaboración de circuitos eléctricos. Recuperado el octubre de 2014, de Scribed.: ',
+        'Barrios Salas, L. A. (21 de agosto de 2009). Elaboración de circuitos eléctricos. Recuperado el octubre de 2014, de Scribed. ',
       link:
         'http://es.scribd.com/doc/18972548/Elaboracion-de-un-Circuito-Turistico ',
     },
@@ -262,28 +262,22 @@ export default {
     {
       referencia:
         'Castrillón Muñoz, J. (4 de febrero de 2010). Facilidades turísticas (definición).Recuperado el 9 de octubre de 2013',
-      link:
-        ' http://boletin-turistico.com/diccionarioturismo/Diccionario-1/F/FACILIDADES-2239/',
     },
     {
       referencia:
         'Dueñas, P. (22 de octubre de 2011). Producto turístico. recuperado el 26 de noviembre de 2014, de slideshare:',
-      link: '',
     },
     {
       referencia:
         'Ejarque, J. (2009). El Turista Cliente. Recuperado el 5 de noviembre de 2014',
-      link: '',
     },
     {
       referencia:
         'Germán Sierra Anaya, M. R. (2006). Introducción al mercado turístico. Cartagena: Universitaria. gonzález Ferrer, J. R. (s.f.). Conceptuación del Producto Turístico. Recuperado el 24 de noviembre de 2014',
-      link: '',
     },
     {
       referencia:
         'Instituto Distrital de Turismo - ANATO. (22 de 11 de 2008). Manual para el diseño de paquetes turísticos. recuperado el 24 de noviembre de 2014',
-      link: '',
     },
     {
       referencia:
@@ -293,7 +287,6 @@ export default {
     {
       referencia:
         'Ministerio de Comercio, Industria y Turismo. (10 de enero de 2010). Metodología para la elaboración del Inventario de atractivos turísticos. Recuperado el 31 de octubre de 2012',
-      link: '',
     },
     {
       referencia:
@@ -315,8 +308,7 @@ export default {
     },
     {
       referencia:
-        'Valencia, J. (octubre de 2014). Diccionario de Términos Turísticos. Recuperado el 12 de noviembre de 2014, de boletin-turistico.com: ',
-      link: '',
+        'Valencia, J. (octubre de 2014). Diccionario de Términos Turísticos. Recuperado el 12 de noviembre de 2014, de boletin-turistico.com',
     },
   ],
   creditos: [

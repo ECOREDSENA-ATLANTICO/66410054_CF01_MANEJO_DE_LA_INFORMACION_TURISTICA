@@ -45,6 +45,14 @@
   @media (max-width: 576px)
     background-size: cover
     margin-top: 1rem
+  &-2
+    background-image: url(../assets/curso/temas/tema5/fnd-1.svg)
+  &-3
+    background-image: url(../assets/curso/temas/tema5/fnd-2.svg)
+  &-4
+    background-size: cover
+    background-position: right
+
 .fnd-1
   background-color: #E5F9FF !important
 .fnd-2
@@ -108,11 +116,121 @@
     display: block
     @media (max-width: 768px)
       display: none 
+
+  .img-2
+    bottom: -30%
+    top: 0
+    right: 0%
+    transform: translateY(-30%)
+  .img-3
+    top: 50%
+    right: 0%
+    transform: translateY(-56%)    
+  .img-4
+    right: 2%
 .fnd-6
   position: relative
   background-image: url(../assets/curso/temas/tema1/fnd-2-.svg)
   background-size: cover
   background-position: center left
   background-repeat: no-repeat    
+  &-
+    background-image: url(../assets/curso/temas/tema5/img-2.svg)
+  &-1
+    background-image: url(../assets/curso/temas/tema5/img-11.svg)
+  &-2
+    background-image: url(../assets/curso/temas/tema3/img-12.svg)
 .fnd-7
   background-color: #F3FDF1
+.fnd-8
+  background-color: #E9FBE5
+  &-1
+    background-color: #FEE2DB
+  &-2
+    background-color: #F6F6F6
+  &-3    
+    background-color: #FDE3C1 !important
+  &-4
+    background-color:#F3FDF1
+  &-5
+    background-color: #99E7FF
+    border-radius: 2rem
+    border: 10px solid #fff
+  &-6
+    background-color: #D3F8CB    
+    border-radius: 2rem
+    border: 10px solid #fff
+  &-7
+    background-color: #fff
+    border: 3px solid #55555518
+  &-8
+    background-color: #CCF3FF
+.fnd-9    
+  &-1
+    background-color: #99E7FF
+    border-radius: 2rem 0 0 2rem   
+  &-2
+    background-color: #CDF3FF
+    border-radius: 0 2rem 2rem 0
+    
+  @media (max-width: 768px)  
+    &-1
+      margin-bottom: 2rem
+    border-radius: 2rem
+    
+  @media (min-width: 1200px)        
+    height: 370px
+  @media (min-width: 992px) and (max-width: 1200px)       
+    height: 464px 
+.fnd-10
+  .tabs-a__tab.tabs-a__tab__selected, .tabs-a.color-acento-botones .tabs-a__tab:hover,
+    background-color: #00C2FF !important
+  .tabs-a__tab 
+    background-color: #94EE7F
+.tabs-a.color-acento-botones .tabs-a__tab__selected:before 
+    background-color: #00C2FF !important
+.img-72
+  height: 72px
+  width: auto
+  margin: auto  
+.img-38
+  height: 38px
+  width: auto
+
+.ta-ge
+  @media (max-width: 1200px)  
+    align-items: center !important
+    display: flex
+  @media (min-width: 1200px)  
+    height: 210px    
+
+
+.img-infografica__item, .img-infografica-b__item
+    width: 3.5%    
+    background-color: #fff   
+    border-radius: 2rem
+.img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after, 
+  background-color: #fff     
+
+.f1
+  position: relative
+.background 
+  position: absolute
+  top: 50%
+  left: 0
+  right: 0
+  height: 60%
+  background-color: #e8f6dc 
+  z-index: 1
+  border-radius: 20px
+  transform: translateY(-50%)
+.b1
+  background-color: #D3F8CB !important  
+
+.cont2
+  position: relative
+  display: flex
+  justify-content: space-between
+  z-index: 2
+  width: 100%
+  padding: 20px  

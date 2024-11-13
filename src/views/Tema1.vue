@@ -15,15 +15,15 @@
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='')
       .col-lg-8
         .row.justify-content-center.align-items-center
-          .col-auto.fnd-t
-            h5 Enfoque de marketing y mercadeo aplicado a algunas tipologías de consumidores.
+          .col-auto.fnd-t.fnd-t-4
+            h4.mb-0 Enfoque de marketing y mercadeo aplicado a algunas tipologías de consumidores.
         p Ahora exploraremos un enfoque más de marketing y mercado, aplicando algunas diferenciaciones en la forma de tipologías que implantan algunos autores, como:
         p <b>Consumo:</b> que desde que surge la necesidad de realizar un viaje hasta que, disfruta de sus vacaciones, y vuelve a su casa y habla de las vivencias de su viaje, por eso que dependiendo de la clasificación se busca reducir el objeto clasificado, consiguiendo en ocasiones retirar cualquier propósito de complejidad. 
         .cajon.color-primario.p-4.fnd-1
           p.mb-0 El autor <b>Tirso Maldonado</b> hace una clasificación existe una clasificación que empieza a ser clásica, que divide al cliente es<i> consumer, prosumer y adprosumer,</i> No existe en la industria turística el <i>consumer</i>, ilustrado como mero consumidor, porque en el destino que es el producto o sea el servicio se crea por la interrelación entre trabajador y cliente, ya que todo esto forma parte de la creación del producto nombrado, es por eso se debe utilizar cierta perspectiva para analizarlo:
 
 
-    .row.justify-content-center.align-items-center.mb-5.fnd-2.p-lg-5
+    .row.justify-content-center.align-items-center.mb-5.fnd-2.p-lg-4
       .tarjeta.tarjeta--azul.p-4.mb-5.fnd-2-2
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
@@ -142,8 +142,8 @@
               img(src='@/assets/curso/temas/tema1/img-10.png' alt='Background Image')
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
-      .col-auto.pe-2.mt-1.fnd-t
-        h5 Tipos de cliente y su clasificación 
+      .col-auto.pe-2.mt-1.fnd-t.fnd-t-2
+        h4.mb-0 Tipos de cliente y su clasificación 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
@@ -154,8 +154,8 @@
           img(src='@/assets/curso/temas/tema1/img-11.png')
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
-      .col-auto.pe-2.mt-1.fnd-t
-        h5 Clasificación de clientes
+      .col-auto.pe-2.mt-1.fnd-t.fnd-t-2
+        h4.mb-0 Clasificación de clientes
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-md-8.mb-4
@@ -325,20 +325,6 @@
                 .col.px-0
                   p.mb-0 Conocen bien su negocio, y se consideran triunfadores. 
      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </template>
 
