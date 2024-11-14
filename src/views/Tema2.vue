@@ -9,7 +9,7 @@
 
     p El consumidor turístico es el comprador de productos que rige su comportamiento ante la compra de servicios turísticos, no siempre actúa de la misma manera, si no que cambia según la situación del consumo y el producto turístico determinado, cambia con facilidad su nivel de implicación en la compra:    
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-8.fnd-8-5.px-0
         figure       
           img(src='@/assets/curso/temas/tema2/img-1.png', alt='')
@@ -63,7 +63,7 @@
       .col-auto.pe-2.mt-1.fnd-t.fnd-t-2
         h4.mb-0 Características del actual consumidor turístico 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.col-md-8
         figure
           img.mb-4(src='@/assets/curso/temas/tema2/img-4.png', alt='')
@@ -72,7 +72,7 @@
         p El <em>marketing</em> turístico debe estar capacitado para entender la demanda del futuro, y estar al tanto de qué tipos de turistas son los que tendremos, y cómo se dispondrá de su espacio libre, y que cantidad tiempo brindará a sus vacaciones, y la distribución que hará a lo prolongado del año, cómo realizará la escogencia de los lugares que visitará en sus vacaciones, y el transporte utilizará. 
         p El consumidor turístico actual presenta características visiblemente diferentes a las que tenía en los años 70 y 80, de las cuales se destacan: multiconsumidor turístico perfecto es el que a lo extenso de una etapa determinada opera bajo varias formas de consumo turístico y es el que ejecuta diferentes acciones. 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-xl-3.col-md-6
         .tarjeta-avatar-b.mb-5.ta-ge
           .tarjeta-avatar-b__img

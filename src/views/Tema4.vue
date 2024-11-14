@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 4
       h1 Inventario turístico
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-8            
         p Registro de elementos que, por sus características y particulares cualidades naturales o culturales, tienen significación de atractivo para el turismo, lo cual implica un capital a manera de reserva, que puede brindar grandes posibilidades de desarrollo turístico para una región o país.
         p.mb-4 Es importante recalcar que los inventarios de atractivos turísticos, junto con otros insumos de información producidos en los procesos de planificación turística, constituyen elementos de trascendencia para la toma de decisiones en materia de turismo, tanto para el sector público como para el privado, en los niveles regionales y nacionales. El resultado de un inventario turístico debe facilitar el trabajo a los actores regionales y municipales del turismo, propiciando el diálogo armónico con miras a la diversificación y consolidación de nuevos productos turísticos competitivos:
@@ -20,7 +20,7 @@
         h5 Inventario
       p Es el proceso por el cual se registran ordenadamente los factores físicos y culturales como un conjunto de atractivos, que sirven para elaborar productos turísticos de una región. Es necesario diferenciar entre recurso y atractivo: 
 
-    .row
+    .row(data-aos="fade-left")
       .col-lg-5
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
@@ -45,7 +45,7 @@
     p La región donde se realiza el levantamiento del inventario debe evaluar objetivamente los recursos y atractivos susceptibles de uso turístico, los cuales se clasifican en dos grupos: patrimonio cultural y sitios naturales.
 
 
-    TabsA.color-acento-botones.mb-5.fnd-10
+    TabsA.color-acento-botones.mb-5.fnd-10(data-aos="fade-left")
       .tarjeta.fnd-8-8.p-4(titulo="Patrimonio Cultural")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
           .col-lg-5            

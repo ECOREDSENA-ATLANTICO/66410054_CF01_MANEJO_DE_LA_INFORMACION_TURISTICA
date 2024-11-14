@@ -9,12 +9,12 @@
       
     p  En la caracterización de clientes se encuentran varias clasificaciones que tratan de segmentar tipologías del cliente, igualmente existen diferentes perspectivas y enfoques que ayudan en la identificación y conocimiento de sus características, rasgos, hábitos, comportamiento y perfiles; especialmente en el ámbito turístico la importancia de conocer los diversos tipos de clientes permite determinar perspectivas de satisfacción a la hora de adquirir un producto turístico.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.col-md-8
         figure.mb-md-4.mb-lg-0
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='')
       .col-lg-8
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-auto.fnd-t.fnd-t-4
             h4.mb-0 Enfoque de marketing y mercadeo aplicado a algunas tipologías de consumidores.
         p Ahora exploraremos un enfoque más de marketing y mercado, aplicando algunas diferenciaciones en la forma de tipologías que implantan algunos autores, como:
@@ -23,7 +23,7 @@
           p.mb-0 El autor <b>Tirso Maldonado</b> hace una clasificación existe una clasificación que empieza a ser clásica, que divide al cliente es<i> consumer, prosumer y adprosumer,</i> No existe en la industria turística el <i>consumer</i>, ilustrado como mero consumidor, porque en el destino que es el producto o sea el servicio se crea por la interrelación entre trabajador y cliente, ya que todo esto forma parte de la creación del producto nombrado, es por eso se debe utilizar cierta perspectiva para analizarlo:
 
 
-    .row.justify-content-center.align-items-center.mb-5.fnd-2.p-lg-4
+    .row.justify-content-center.align-items-center.mb-5.fnd-2.p-lg-4(data-aos="fade-right")
       .tarjeta.tarjeta--azul.p-4.mb-5.fnd-2-2
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
@@ -77,7 +77,7 @@
       .col.px-0
         h3.mb-0 Perfil de los principales segmentos de mercado más importantes según la Organización Mundial del Turismo (OMT): 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-4.col-md-8.order-2.order-lg-1
         figure
           img(src='@/assets/curso/temas/tema1/img-7.png')
@@ -96,7 +96,7 @@
           .row(titulo="Turismo urbano")
             p El turismo urbano se centra en la exploración de ciudades, donde los viajeros disfrutan de la arquitectura, la gastronomía, la vida nocturna y la cultura local. Este tipo de turismo invita a descubrir museos, eventos y atracciones, ofreciendo una experiencia rica y diversa en entornos dinámicos y contemporáneos.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-3")
           .row(titulo="Turismo rural")
@@ -123,7 +123,7 @@
     p.mb-4 El turismo es una condición propia del hombre y mujer del siglo XXI. A partir del siglo pasado, se han ido abriendo y perfeccionando los ambientes de trabajo y los derechos de los trabajadores, el turismo ha alcanzado a ser considerado derecho y necesidad. No se pueden desligar las tendencias del turista actual con las tendencias de la sociedad contemporánea. Como existimos en una sociedad marcada por una dinámica competitividad, cabe destacar una marcada reducción del tiempo de trabajo en pro de la estabilidad laboral y el miedo a perder el empleo. El turista actual demandará vacaciones más cortas, pero exigirá mayores niveles de calidad. Por este motivo realizará también vacaciones no solo una vez al año sino varias. 
 
 
-    .row.justify-content-center.align-items-center.mb-5.fnd-4
+    .row.justify-content-center.align-items-center.mb-5.fnd-4(data-aos="fade-right")
       .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema1/img-9.png')
@@ -145,7 +145,7 @@
       .col-auto.pe-2.mt-1.fnd-t.fnd-t-2
         h4.mb-0 Tipos de cliente y su clasificación 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9
         p No existe ninguna clasificación de personalidades que sea perfecta por muy construida que esté, o por mucho rigor científico que se haya empleado en su elaboración. Esto es por una sencilla razón, ni la psicología es una ciencia exacta ni el objeto de su estudio, se comporta de una manera regular y constante. 
         p Lo que nunca debe olvidar quien atiende clientes es que estas clasificaciones son un instrumento, un apoyo que la Psicología le da a fin de perfeccionar su capacidad de gestión, no basta con saber clasificar a un cliente, es saber cómo tratarlo y como llegarle para conseguir el objetivos propuestos, en la generalidad de los casos se atiende más a un rasgo específico de personalidad, más que a un conjunto de ellos, si se prestar atención a como un cliente destaca en ese rasgo concreto, inmediatamente es clasificado en ese grupo, lo que permite sugerirle al profesional cómo tiene que comunicarse para obtener los mejores resultados.
@@ -157,7 +157,7 @@
       .col-auto.pe-2.mt-1.fnd-t.fnd-t-2
         h4.mb-0 Clasificación de clientes
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-8.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img-12.png')

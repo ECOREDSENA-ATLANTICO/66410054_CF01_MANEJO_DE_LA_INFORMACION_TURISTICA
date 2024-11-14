@@ -186,7 +186,7 @@ export default {
         'es una nueva tendencia del Turismo Alternativo diferente al Turismo tradicional. Es un enfoque para las actividades turísticas en el cual se privilegia la sustentabilidad,la preservación, la apreciación del medio que acoge y sensibiliza a los viajantes.',
     },
     {
-      termino: 'excursionista',
+      termino: 'Excursionista',
       significado:
         'persona que realiza un viaje fuera de su entorno habitual y que no pernocta en el lugar visitado. Dicho viaje se realiza por cualquier motivo diferente al de ejercer una actividad remunerada en el lugar visitado.',
     },
@@ -211,7 +211,7 @@ export default {
         'elemento visual que simula la superficie de un objeto, contribuyendo al realismo y la profundidad en la ilustración digital.',
     },
     {
-      termino: 'Itinerario:',
+      termino: 'Itinerario',
       significado:
         'ruta que se sigue para llegar a un lugar; es la dirección y descripción de un camino con expresión de los lugares, accidentes, paradas, distancias, etc., que existen a lo largo de él. En él se incluye la lista de datos referentes a un viaje.',
     },
@@ -316,44 +316,16 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'José Armando Díaz Londoño',
-          cargo: 'Desarrollador de contenido',
-          centro: 'Centro de comercio y servicios Regional caldas',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Beatriz Zuleta Arango',
-          cargo: 'Experto temático',
-          centro: 'Centro de comercio y servicios Regional caldas.',
-        },
-        {
-          nombre: 'Gualberto Enrique Benítez',
-          cargo: 'Experto temático',
-          centro: 'Centro de comercio y servicios Regional caldas.',
-        },
-        {
-          nombre: 'José Armando Díaz Londoño',
-          cargo: 'Experto temático',
-          centro: 'Centro de comercio y servicios Regional caldas.',
-        },
-        {
-          nombre: 'Rosa Elvia Quintero Guasca',
-          cargo: 'Asesora pedagógica',
-          centro: 'Centro de comercio y servicios Regional caldas.',
-        },
-        {
-          nombre: 'Luis Orlando Beltrán Vargas',
-          cargo: 'Asesora pedagógica',
-          centro: 'Centro de comercio y servicios Regional caldas.',
-        },
-        {
-          nombre: 'José Armando Díaz Londoño',
-          cargo: 'Líder de expertos temáticos.',
-          centro: 'Centro de comercio y servicios Regional caldas.',
-        },
-        {
-          nombre: 'Santiago Lozada Garcés',
-          cargo: 'Líder línea de producción.',
-          centro: 'Centro de comercio y servicios Regional caldas.',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -361,9 +333,50 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'José Armando Díaz Londoño',
+          cargo: 'Experto temático',
+          centro: 'Centro de comercio y servicios - Regional Caldas',
+        },
+        {
+          nombre: 'Olga Beatriz Zuleta Arango',
+          cargo: 'Experto temático',
+          centro: 'Centro de comercio y servicios - Regional Caldas',
+        },
+        {
+          nombre: 'Gualberto Enrique Benítez',
+          cargo: 'Experto temático',
+          centro: 'Centro de comercio y servicios - Regional Caldas',
+        },
+        {
+          nombre: 'José Armando Díaz Londoño',
+          cargo: 'Experto temático',
+          centro: 'Centro de comercio y servicios - Regional Caldas',
+        },
+        {
+          nombre: 'Rosa Elvia Quintero Guasca',
+          cargo: 'Asesora pedagógica',
+          centro: 'Centro de comercio y servicios - Regional Caldas',
+        },
+        {
+          nombre: 'Luis Orlando Beltrán Vargas',
+          cargo: 'Asesor pedagógico',
+          centro: 'Centro de comercio y servicios - Regional Caldas',
+        },
+        {
+          nombre: 'José Armando Díaz Londoño',
+          cargo: 'Líder de expertos temáticos',
+          centro: 'Centro de comercio y servicios - Regional Caldas',
+        },
+        {
+          nombre: 'Santiago Lozada Garcés',
+          cargo: 'Líder línea de producción',
+          centro: 'Centro de comercio y servicios - Regional Caldas',
+        },
+        {
+          nombre: 'Fabian Cuartas Donado',
+          cargo: 'Evaluador instruccional',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -371,24 +384,22 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Carmen Alicia Martinez Torres',
+          cargo: 'Diseñor web',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Jorge Leonardo Camacho Pardo',
+          cargo: 'Desarrollador <em> full stack</em>',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Alexander Rafael Acosta Bedoya',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },
@@ -396,24 +407,28 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
+          nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Margarita Marcela Medrano',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales ',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },

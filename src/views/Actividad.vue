@@ -13,16 +13,18 @@ export default {
   name: 'ActividadDidactica',
   data: () => ({
     cuestionario: {
-      tema: 'Nombre del componente formativo',
+      tema:
+        'Asesoría turística basada en necesidades y expectativas del cliente',
       titulo: 'Cuestionario',
-      introduccion: '<b> Objetivo:</b> Texto de Word',
+      introduccion:
+        'Preguntas de opción múltiple: lea los siguientes enunciados y seleccione la respuesta que considere correcta.',
       barajarPreguntas: true,
       preguntas: [
         {
           id: 1,
           texto:
-            '¿¿Qué elemento es clave en la asesoría turística basada en las necesidades del cliente?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+            '¿Qué elemento es clave en la asesoría turística basada en las necesidades del cliente?',
+          imagen: require('@/assets/actividad/img-1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -56,7 +58,7 @@ export default {
           id: 2,
           texto:
             '¿Cómo debe un asesor turístico abordar la solicitud de un cliente que busca un destino con actividades de aventura?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/img-2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -89,7 +91,7 @@ export default {
           id: 3,
           texto:
             '¿Qué factor es esencial al ofrecer asesoría turística a un cliente con restricciones de tiempo y presupuesto limitado?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/img-3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -123,7 +125,7 @@ export default {
           id: 4,
           texto:
             '¿Cómo se puede personalizar una oferta turística para un cliente con intereses en ecoturismo?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/img-4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -156,7 +158,7 @@ export default {
           id: 5,
           texto:
             '¿Cuál es el primer paso para ofrecer una asesoría turística efectiva?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/img-5.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -189,7 +191,7 @@ export default {
           id: 6,
           texto:
             '¿Cuándo un cliente expresa la necesidad de un viaje de relax, ¿qué tipo de destino debería recomendar el asesor turístico',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/img-6.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -220,7 +222,7 @@ export default {
           id: 7,
           texto:
             '¿Qué rol juega la comunicación efectiva en la asesoría turística?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/img-1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -253,7 +255,7 @@ export default {
           id: 8,
           texto:
             '¿Qué tipo de información es crucial para entender las expectativas de un cliente antes de ofrecerle un paquete turístico?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/img-2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -285,7 +287,7 @@ export default {
           id: 9,
           texto:
             '¿Qué tipo de clientes puede buscar un servicio de asesoría turística personalizada?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/img-3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -318,7 +320,7 @@ export default {
           id: 10,
           texto:
             '¿Si un cliente desea realizar un viaje cultural, ¿qué aspecto debe priorizar el asesor turístico?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/img-4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -350,7 +352,7 @@ export default {
           id: 11,
           texto:
             '¿Cuál es la mejor forma de garantizar una experiencia satisfactoria al cliente en la asesoría turística?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/img-5.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -385,7 +387,7 @@ export default {
           id: 12,
           texto:
             '¿Qué tipo de asesoría turística sería adecuada para un cliente que viaja por negocios?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/img-6.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -418,7 +420,7 @@ export default {
           id: 13,
           texto:
             '¿En una asesoría turística, ¿por qué es importante conocer las expectativas emocionales de los clientes?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/img-1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -453,7 +455,7 @@ export default {
           id: 14,
           texto:
             '¿Qué es fundamental tener en cuenta cuando un cliente tiene necesidades de accesibilidad debido a una discapacidad?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/img-2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -487,7 +489,7 @@ export default {
           id: 15,
           texto:
             '¿Qué estrategia puede utilizar un asesor turístico para abordar las expectativas cambiantes de los clientes durante un proceso de asesoría?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/img-3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -521,7 +523,7 @@ export default {
           id: 16,
           texto:
             '¿Cuándo un cliente solicita un paquete turístico personalizado, ¿qué tipo de información adicional es relevante recabar?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/img-4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -554,7 +556,7 @@ export default {
           id: 17,
           texto:
             '¿Qué debe hacer un asesor turístico si un cliente no está satisfecho con las opciones iniciales presentadas?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/img-5.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -588,7 +590,7 @@ export default {
           id: 18,
           texto:
             '¿Qué aspecto es esencial al personalizar un paquete turístico para un cliente familiar?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/img-6.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -620,7 +622,7 @@ export default {
           id: 19,
           texto:
             'Cuando un cliente tiene un interés en un destino específico, ¿cómo debe responder un asesor turístico?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/img-1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -654,7 +656,7 @@ export default {
           id: 20,
           texto:
             '¿Por qué es importante conocer la cultura y costumbres del destino al ofrecer asesoría turística?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/img-2.png'),
           barajarRespuestas: true,
           opciones: [
             {

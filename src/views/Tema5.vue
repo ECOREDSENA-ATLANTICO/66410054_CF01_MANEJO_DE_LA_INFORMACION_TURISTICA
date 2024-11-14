@@ -7,7 +7,7 @@
         span 5
       h1 Valoración de los atractivos turísticos
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-6.mb-4
         figure
           img(src='@/assets/curso/temas/tema5/img-1.png')
@@ -15,7 +15,7 @@
         p La valoración de los atractivos turísticos resulta indispensable para determinar un punto de partida, en el que se conozca las condiciones actuales de un destino de manera realista, identificando los factores clave tanto de su potencial como su protección, que garantizan su desarrollo armónico y seguro: <b>la calidad es un conjunto de características que le confieren a un producto o servicio, los atributos necesarios para satisfacer necesidades implícitas y expresas.</b> 
         p Los criterios de calidad varían de acuerdo con el atractivo que se esté evaluando y hacen referencia al grado de conservación en el que se encuentre el atractivo. La calificación de la calidad representa el 70 % del total del puntaje asignable, en donde se deben valorar todos los criterios para cada atractivo. Por otro lado, está el <b>Significado: son los criterios de significado hacen referencia al grado de reconocimiento que tiene el atractivo.</b> Representan el 30% de la calificación. Sólo se valora con uno de los criterios (es una calificación excluyente) y se aplica un valor único.
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(fade-left)
       .col-lg-8
         .row.pe-lg-3.justify-content-center(data-aos="zoom-in")
           .col-auto.pe-2.mt-1.fnd-t-2.fnd-t
@@ -39,7 +39,7 @@
       .col.px-0
         h3.mb-0 Patrimonio material
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-xl-8.order-2.order-xl-1
         p Territorio geográfico con sus recursos ambientales y naturales como hábitat humano. En él se verifica:
         .row.justify-content-center.align-items-center 
@@ -76,7 +76,7 @@
 
     p Manifestación agrupada bajo la denominación de folklore. En él se verifica que sea:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-8
         figure.mb-4
           img(src='@/assets/curso/temas/tema5/img-6.png' alt='Background Image')
@@ -126,7 +126,7 @@
         h3.mb-0 Festividades y eventos
     p.mb-5 Expresión cultural dispuesta para el festejo y el agradecimiento, o para conmemorar u honrar determinadas circunstancias. En ella se verifica:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
         SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
           .tarjeta.fnd-8-2.p-4
@@ -155,7 +155,7 @@
         figure
           img(src='@/assets/curso/temas/tema5/img-8.png')
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
           .col-auto.pe-2
@@ -175,14 +175,14 @@
                 .py-3.px-2
                   p.mb-0 <b>Respeto por las costumbres: </b>forma de conservación auténtica de su legado cultural.
                   .row.justify-content-center.align-items-center
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-10
         .row.pe-lg-3.justify-content-center(data-aos="zoom-in")
           .col-auto.pe-2.mt-1.fnd-t-3.fnd-t
             h5 Significado: 
         p.mb-5 Este segundo grupo de criterios de valoración tiene como objetivo determinar los siguientes aspectos:
         .row.justify-content-center.align-items-center.mb-5.fnd-8-4
-          .col-lg-4.col-md-8
+          .col-lg-4.col-md-8.mb-md-4.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema5/img-10.png')
 
@@ -224,103 +224,332 @@
             figure.fl-box-img.img-3
               img(src='@/assets/curso/temas/tema5/img-12.png' alt='Background Image')
 
-    
-    .titulo-sexto.color-acento-contenido
-      h5 Tabla.1 
-        span Grado de reconocimiento
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
+      .col-lg-10
+        
+        .titulo-sexto.color-acento-botones
+          h5 Tabla 1. 
+          span Grado de reconocimiento
 
-    p También hay que tener en cuenta las percepciones afectivas, dada su importancia local; éstas se determinan por el conocimiento que del sitio tengan los mercados turísticos, de acuerdo con las siguientes fuentes:
+        table.tbl.mb-5
+          caption Fuente: Sena.
+          tr
+            td Local 	
+            td Grado de reconocimiento del atractivo dentro del área municipal.
+          tr
+            td Regional	
+            td Grado de reconocimiento del atractivo en un área de uno o más departamentos      
+          tr
+            td Nacional	
+            td Grado de reconocimiento del atractivo dentro del país.
 
-    .row.justify-content-center.align-items-center.mb-5.fnd-8-4
-      .col-lg-4.col-md-8
+        p También hay que tener en cuenta las percepciones afectivas, dada su importancia local; éstas se determinan por el conocimiento que del sitio tengan los mercados turísticos, de acuerdo con las siguientes fuentes:
+
+    .row.justify-content-center.align-items-center.mb-5.fnd-8-8(data-aos="fade-right")
+      .col-lg-4.col-md-8.px-0.mb-md-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema5/img-13.png')
 
-      .col-lg-8
+      .col-lg-8.p-lg-2.py-4
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
-            img(src="@/assets/curso/temas/tema5/check.svg")
+            img(src="@/assets/curso/temas/tema5/check2.svg")
           .col.px-0
             p.mb-0 Guías de promoción turística nacional o internacional; sean éstas digitalizadas para presentación virtual o impresa.
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
-            img(src="@/assets/curso/temas/tema5/check.svg")
+            img(src="@/assets/curso/temas/tema5/check2.svg")
           .col.px-0
             p.mb-0 Paquetes turísticos diseñados y operados por agencias de viajes locales, regionales y nacionales.
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
-            img(src="@/assets/curso/temas/tema5/check.svg")
+            img(src="@/assets/curso/temas/tema5/check2.svg")
           .col.px-0
             p.mb-0 Paquetes turísticos diseñados por agencias de viajes mayoristas (tour operadores), nacionales o internacionales.
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
-            img(src="@/assets/curso/temas/tema5/check.svg")
+            img(src="@/assets/curso/temas/tema5/check2.svg")
           .col.px-0
             p.mb-0 Revistas especializadas en turismo, de orden regional, nacional o internacional; virtual o impreso.
-    p.mb-3 Cuando un bien cultural o natural no cuenta con reconocimiento frente a los mercados turísticos, queda como un recurso turístico; y, como componente de un producto turístico, puede ser susceptible de acciones de mejoramiento y promoción, para integrarlo posteriormente en procesos de la cadena productiva del turismo.
-    p.mb-3 Para efectos de determinar la vocación turística de un destino y la elaboración del inventario de atractivos turísticos, los municipios que cuenten sólo con bienes de significado local, se considera que habrán realizado la identificación de un recurso turístico.
+    p Cuando un bien cultural o natural no cuenta con reconocimiento frente a los mercados turísticos, queda como un recurso turístico; y, como componente de un producto turístico, puede ser susceptible de acciones de mejoramiento y promoción, para integrarlo posteriormente en procesos de la cadena productiva del turismo.
+    p.mb-5 Para efectos de determinar la vocación turística de un destino y la elaboración del inventario de atractivos turísticos, los municipios que cuenten sólo con bienes de significado local, se considera que habrán realizado la identificación de un recurso turístico.
 
-    
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
         img(src="@/assets/curso/temas/tema1/img-6.png")
       .col.px-0
         h3.mb-0 Asignación de puntaje
-      p Herramientas técnicas basada en criterios seleccionados y adaptados para la toma de decisiones en materia de gestión turística. Su puntaje se deriva del nivel de importancia para cada criterio:
+    p.mb-4 Herramientas técnicas basada en criterios seleccionados y adaptados para la toma de decisiones en materia de gestión turística. Su puntaje se deriva del nivel de importancia para cada criterio:
+
+    .row.justify-content-center.align-items-center.mb-5.fnd-11.p-4(data-aos="fade-right")
+      .row.justify-content-center.align-items-center
+        .col-lg-12
+          .tarjeta.p-4.fnd-2-2
+            SlyderA(tipo="b")
+              .row.justify-content-center.align-items-center.p-4.p-md-1
+                .col-lg-4.mb-4.mb-md-0
+                  h4.text-center Patrimonio material:
+                .col-lg-8    
+                  .tabla-b
+                    table.tbl-1
+                      caption Fuente: Ministerio de Comercio, Industria y Turismo (2010).
+                      thead
+                        tr
+                          th.tb 
+                          th.text-center(colspan="2") Puntaje
+                        tr
+                          th.text-center(rowspan="4") 
+                            h4 Calidad                        
+                          th Estado de conservación
+                          th 21
+                        tr
+                          th Constitución del bien
+                          th 21
+                        tr
+                          th Representatividad
+                          th 28
+                        tr
+                          th Total
+                          th 70
+                      tbody
+                        tr
+                          td.text-center(rowspan="5") 
+                            h4 Significado
+                          td Local
+                          td 6
+                        tr
+                          td Regional
+                          td 12
+                        tr
+                          td Nacional
+                          td 18
+                        tr
+                          td Internacional
+                          td 30
+                        tr
+                          td Total
+                          td 30
+              .row.justify-content-center.align-items-center.p-4.p-md-1
+                .col-lg-4.mb-4.mb-md-0
+                  h4.text-center Patrimonio inmaterial:
+                .col-lg-8    
+                  .tabla-b
+                    table.tbl-1
+                      caption Fuente: Ministerio de Comercio, Industria y Turismo (2010).
+                      thead
+                        tr
+                          th.tb 
+                          th.text-center(colspan="2") Puntaje                      
+                        tr
+                          th.text-center(rowspan="7") 
+                            h4 Calidad
+                          th Colectivo
+                          th 14
+                        tr
+                          th Tradicional
+                          th 14
+                        tr
+                          th Anónimo
+                          th 14
+                        tr
+                          th Espontaneo
+                          th 14
+                        tr
+                          th Popular
+                          th 14
+                        tr
+                          th Total
+                          th 70
+                      tbody
+                        tr
+                          td.text-center(rowspan="5") 
+                            h4 Significado
+                          td Local
+                          td 6
+                        tr
+                          td Regional
+                          td 12
+                        tr
+                          td Nacional
+                          td 18
+                        tr
+                          td Internacional
+                          td 30
+                        tr
+                          td Total
+                          td 30
+
+              .row.justify-content-center.align-items-center.p-4.p-md-1
+                .col-lg-4.mb-4.mb-md-0
+                  h4.text-center Festividades y eventos:
+                .col-lg-8    
+                  .tabla-b
+                    table.tbl-1
+                      caption Fuente: Ministerio de Comercio, Industria y Turismo (2010).
+                      thead            
+                        tr
+                          th.tb 
+                          th.text-center(colspan="2") Puntaje       
+                        tr
+                          th.text-center(rowspan="4") 
+                            h4 Calidad
+                          th Organización del evento
+                          th 30
+                        tr
+                          th Beneficios socioculturales
+                          th 20
+                        tr
+                          th Beneficios económicos locales
+                          th 20
+                        tr
+                          th Total
+                          th 70
+                        tr
+                          td.text-center(rowspan="5") 
+                            h4 Significado
+                          td Local
+                          td 6
+                        tr
+                          td Regional
+                          td 12
+                        tr
+                          td Nacional
+                          td 18
+                        tr
+                          td Internacional
+                          td 30
+                        tr
+                          td Total
+                          td 30
+
+              .row.justify-content-center.align-items-center.p-4.p-md-1
+                .col-lg-4.mb-4.mb-md-0
+                  h4.text-center Grupo de especial interés:
+                .col-lg-8    
+                  .tabla-b
+                    table.tbl-1
+                      caption Fuente: Ministerio de Comercio, Industria y Turismo (2010).
+                      thead            
+                        tr
+                          th.tb 
+                          th.text-center(colspan="2") Puntaje
+                        tr
+                          th.text-center(rowspan="2") 
+                            h4 Calidad
+                          th Respeto por las costumbres
+                          th 70
+                        tr
+                          th Total
+                          th 70
+                        tr
+                          td.text-center(rowspan="5") 
+                            h4 Significado
+                          td Local
+                          td 6
+                        tr
+                          td Regional
+                          td 12
+                        tr
+                          td Nacional
+                          td 18
+                        tr
+                          td Internacional
+                          td 30
+                        tr
+                          td Total
+                          td 30
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
-      .col-auto.pe-2.mt-1.fnd-t
+      .col-auto.pe-2.mt-1.fnd-t.fnd-t-2
         h5 Criterios para la Valoración de Sitios Naturales:  
-      p La valoración de los recursos naturales facilita la toma de decisiones para implementar una actividad recreativa sobre un determinado sistema, considerando su sensibilidad a la intervención humana, así como, la valoración del recurso tomando como base su atractivo turístico.
-  
+    
+    p La valoración de los recursos naturales facilita la toma de decisiones para implementar una actividad recreativa sobre un determinado sistema, considerando su sensibilidad a la intervención humana, así como, la valoración del recurso tomando como base su atractivo turístico.
+    .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
         img(src="@/assets/curso/temas/tema1/img-6.png")
       .col.px-0
         h3.mb-0 Calidad
-      p Tiene en cuenta el estado de conservación de los atractivos a nivel ambiental, es decir, la escasa o nula presencia de deterioro, ocasionado por contaminantes primarios como residuos de petróleo, detergentes, plásticos y latas; igualmente, contaminantes secundarios como ruidos, olores desagradables y obstrucción visual. Los criterios por considerar para evaluar la calidad son:
+    p Tiene en cuenta el estado de conservación de los atractivos a nivel ambiental, es decir, la escasa o nula presencia de deterioro, ocasionado por contaminantes primarios como residuos de petróleo, detergentes, plásticos y latas; igualmente, contaminantes secundarios como ruidos, olores desagradables y obstrucción visual. Los criterios por considerar para evaluar la calidad son:
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-8.order-2.order-lg-1
         figure.mb-md-4.mb-lg-5
           img(src='@/assets/curso/temas/tema5/img-15.png', alt='')
       .col-lg-8.order-1.order-lg-2
         SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
-          .tarjeta.fnd-8-1.p-4
-            h5.text-center Sin contaminación del aire:
+          .tarjeta.fnd-8-9.p-4
+            h5.mb-0.text-center Sin contaminación del aire
             p.mb-0.text-center Generalmente representada por niebla contaminante proveniente de automóviles y plantas industriales; éste fenómeno causa daños en el ecosistema causando grandes pérdidas.
-          .tarjeta.fnd-8-1.p-4
-            h5.text-center Sin contaminación del agua:  
+          .tarjeta.fnd-8-9.p-4
+            h5.text-center Sin contaminación del agua
             p.mb-0.text-center Provocada por elementos químicos mediante el derrame de combustibles (gasolina y derivados del petróleo) en los mantos acuíferos. También se puede provocar por escurrimientos de fertilizantes utilizados en las zonas agrícolas, y por el uso de jabones y detergentes caseros, trasladados por las aguas servidas.
-          .tarjeta.fnd-8-1.p-4
-            h5.text-center Sin contaminación visual:  
+          .tarjeta.fnd-8-9.p-4
+            h5.text-center Sin contaminación visual  
             p.mb-0.text-center Originada en el empleo de arquitectura inadecuada, obstrucción visual por propaganda y dispersión de basuras.
-          .tarjeta.fnd-8-1.p-4
-            h5.text-center Sin contaminación sonora:   
+          .tarjeta.fnd-8-9.p-4
+            h5.text-center Sin contaminación sonora   
             p.mb-0.text-center Representada en niveles que impiden el disfrute de la naturaleza.           
-          .tarjeta.fnd-8-1.p-4
-            h5.text-center Estado de conservación:   
+          .tarjeta.fnd-8-9.p-4
+            h5.text-center Estado de conservación   
             p.mb-0.text-center Situación en que se encuentra la fauna y la flora del lugar; si hay presencia de erosión o manifestaciones de actividades extractivas de supervivencia.
-          .tarjeta.fnd-8-1.p-4
+          .tarjeta.fnd-8-9.p-4
             h5.text-center Diversidad   
             p.mb-0.text-center Riqueza de aspectos a observar (diversidad de especies de flora o fauna) y de hábitats o paisajes (vistas panorámicas, topografía), olores, altitud y temperatura.
-          .tarjeta.fnd-8-1.p-4
-            h5.text-center Singularidad:    
+          .tarjeta.fnd-8-9.p-4
+            h5.text-center Singularidad
             p.mb-0.text-center Son rasgos excepcionales o únicos. En la flora y fauna se denominan endemismo (no se encuentra sino en un área restringida),o relictuales (especies aparentemente desaparecidas evolutivamente).En paisajes se podría definir como que no se encuentra otro de características similares en un ámbito determinado (rareza).
-    .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
-      .col-auto.pe-2
-        img(src="@/assets/curso/temas/tema1/img-6.png")
-      .col.px-0
-        h3.mb-0 Significado
-      p Determinado por el grado de reconocimiento que del atractivo se tenga, ya sea en su entorno local para el caso de un área municipal; regional, para un área de uno o más departamentos; o, nacional, con reconocimiento dentro del país.
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-8    
+        .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
+          .col-auto.pe-2
+            img(src="@/assets/curso/temas/tema1/img-6.png")
+          .col.px-0
+            h3.mb-0 Significado
+        p.mb-4 Determinado por el grado de reconocimiento que del atractivo se tenga, ya sea en su entorno local para el caso de un área municipal; regional, para un área de uno o más departamentos; o, nacional, con reconocimiento dentro del país.
 
-      p El turismo de naturaleza y el ecoturismo se reconocen como formas de turismo particularmente enriquecedora y valorizadora, siempre que se respeten el patrimonio natural y la población local; ajustándola a la capacidad de ocupación de los lugares turísticos   
+        .titulo-sexto.color-acento-botones
+          h5 Tabla 2. 
+          span Asignación de Puntajes para Criterios de Calidad y Significado
+        .tabla-b.mb-4
+          table.tbl-1
+            caption Fuente: Ministerio de Comercio, Industria y Turismo (2010).
+            thead            
+              tr
+                th.tb 
+                th.text-center(colspan="2") Puntaje
+              tr
+                th.text-center(rowspan="4") 
+                  h4 Calidad
+                th Sin contaminación del aire
+                th 21
+              tr
+                th Sin contaminación del agua
+                th 21
+              tr
+                th Sin contaminación visual
+                th 28
+              tr
+                th Sin contaminación sonora
+                th 70
+            tbody
+              tr
+                td.text-center(rowspan="4") 
+                  h4 Significado
+                td Estado de conservación
+                td 6
+              tr
+                td Diversidad
+                td 12
+              tr
+                td Singularidad
+                td 18
+              tr
+                td Total
+                td 30
 
-
-
-
-
-
+        p.mb-4 El turismo de naturaleza y el ecoturismo se reconocen como formas de turismo particularmente enriquecedora y valorizadora, siempre que se respeten el patrimonio natural y la población local; ajustándola a la capacidad de ocupación de los lugares turísticos   
 
 </template>
 

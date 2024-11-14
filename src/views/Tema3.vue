@@ -7,7 +7,7 @@
         span 3
       h1 Comportamiento del consumidor
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-3.col-md-8
         figure.mb-md-4.mb-lg-0
           img(src='@/assets/curso/temas/tema3/img-1.png', alt='')
@@ -26,7 +26,7 @@
               p.mb-0 Cambia con el ciclo de vida del producto. 
               p.mb-0 Varía según el tipo de productos. 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.fnd-9-1.p-4.fnd-9   
         h3.mt-lg-5 Factores explicativos del comportamiento del consumidor al momento de la compra 
         .row.pe-lg-3(data-aos="zoom-in")
@@ -88,7 +88,7 @@
         h3.mb-0 Fases del proceso de decisión de compra:    
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-xl-10
         ImagenInfografica.color-secundario
           template(v-slot:imagen)
@@ -113,7 +113,7 @@
       .col-auto.pe-2.mt-1.fnd-t
         h5 Determinantes personales del comportamiento del consumidor  
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-8
         p Son varios los factores que influyen en la evolución del comportamiento de un consumidor, y como se ubican estos factores en su mente, los cuales ayudan a encontrar el servicio ideal para su satisfacción, de los cuales podemos encontrar: 
 
@@ -189,7 +189,7 @@
         figure.mb-md-4.mb-lg-0
           img(src='@/assets/curso/temas/tema3/img-7.png', alt='')
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.col-md-8.order-2.order-lg-1
         figure.mb-md-4.mb-lg-5
           img(src='@/assets/curso/temas/tema3/img-9.png', alt='')

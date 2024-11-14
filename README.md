@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.0.5**
+# **Asesoría turística basada en necesidades y expectativas del cliente - sena-base-2021 v6.0.5**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecoredsena-atlantico.github.io/66410054_CF01_MANEJO_DE_LA_INFORMACION_TURISTICA/](https://ecoredsena-atlantico.github.io/66410054_CF01_MANEJO_DE_LA_INFORMACION_TURISTICA/)
 
 #
 
