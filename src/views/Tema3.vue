@@ -220,7 +220,7 @@
 
    
 
-    .row.justify-content-center.align-items-center(data-aos="zoom-in")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10.f1
         .background.b1
         .cont2
