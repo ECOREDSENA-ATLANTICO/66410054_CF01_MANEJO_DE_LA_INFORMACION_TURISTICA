@@ -7,11 +7,11 @@
         span 4
       h1 Inventario turístico
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
-      .col-lg-8            
+      .col-xl-8.order-2.order-xl-1            
         p Registro de elementos que, por sus características y particulares cualidades naturales o culturales, tienen significación de atractivo para el turismo, lo cual implica un capital a manera de reserva, que puede brindar grandes posibilidades de desarrollo turístico para una región o país.
         p.mb-4 Es importante recalcar que los inventarios de atractivos turísticos, junto con otros insumos de información producidos en los procesos de planificación turística, constituyen elementos de trascendencia para la toma de decisiones en materia de turismo, tanto para el sector público como para el privado, en los niveles regionales y nacionales. El resultado de un inventario turístico debe facilitar el trabajo a los actores regionales y municipales del turismo, propiciando el diálogo armónico con miras a la diversificación y consolidación de nuevos productos turísticos competitivos:
         
-      .col-lg-4.col-md-6.mb-0.mb-md-4
+      .col-xl-4.col-md-6.mb-4.order-1.order-xl-2
         figure
           img(src='@/assets/curso/temas/tema4/img-1.svg')
 
@@ -48,7 +48,7 @@
     TabsA.color-acento-botones.mb-5.fnd-10(data-aos="fade-left")
       .tarjeta.fnd-8-8.p-4(titulo="Patrimonio Cultural")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
-          .col-lg-5            
+          .col-xl-5            
             p Se define como el conjunto de bienes y manifestaciones culturales, materiales e inmateriales, que se encuentra en permanente construcción sobre el territorio transformado por las comunidades. Dichos bienes y manifestaciones se constituyen en valores que conforman sentido y lazo de permanencia, identidad y memoria para un grupo o colectivo humano.
               
           .col-lg-7.col-md-8
@@ -57,7 +57,7 @@
 
       .tarjeta.fnd-8-8.p-4(titulo="Patrimonio material")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
-          .col-lg-7         
+          .col-xl-7         
             p Caracterizado por tener un cuerpo físico que puede ser dimensionado y percibido sensorialmente. Está constituido por el territorio geográfico, por los recursos ambientales y naturales como hábitat humano, por los hechos allí construidos, por las manifestaciones físicas de su estructura de producción, por los procesos de poblamiento, por los sistemas de transporte y las obras de infraestructura; y, todo el universo de herramientas, utensilios, máquinas y demás objetos que apoyan la vida productiva y cotidiana de los seres humanos. El patrimonio material agrupa dos grandes áreas: la inmueble y la mueble.
             
           .col-lg-5.col-md-8
@@ -66,7 +66,7 @@
 
       .tarjeta.fnd-8-8.p-4(titulo="Patrimonio inmaterial")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
-          .col-lg-7     
+          .col-xl-7     
             p Comprende las tradiciones y expresiones orales, las prácticas sociales, los rituales y actos festivos, el conocimiento y prácticas sobre la naturaleza y el universo, y expresiones artísticas, entre otras.  Continuamente se están recreando en la sociedad y reproduciendo generacionalmente. Estas manifestaciones pueden agruparse bajo la denominación de folklore (entendido como la sabiduría del pueblo), y deben ajustarse a ciertas características, como lo son: la colectividad, tradición, anonimato, espontaneidad y popularidad.
             
           .col-lg-5.col-md-6
@@ -75,7 +75,7 @@
 
       .tarjeta.fnd-8-8.p-4(titulo="Festividades y eventos")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
-          .col-lg-7          
+          .col-xl-7          
             p son atractivos que se generan en la realización de eventos con contenido actual o tradicional, en los cuales, la población es actora o espectadora. 
             p Grupos de especial interés: Constituidos por comunidades indígenas, comunidades negras y comunidades raizales, en las cuales se valora el respeto por sus costumbres como una forma de conservación auténtica de su legado cultural.
             
@@ -85,7 +85,7 @@
 
       .tarjeta.fnd-8-8.p-4(titulo="Sitios naturales")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
-          .col-lg-7           
+          .col-xl-7           
             p Contemplan las áreas geográficas (conjunto de atractivos con sus componentes), y los recursos naturales (que por sus características no permiten estar agrupados); resultan de gran importancia e interés para el turismo
             
           .col-lg-5.col-md-6

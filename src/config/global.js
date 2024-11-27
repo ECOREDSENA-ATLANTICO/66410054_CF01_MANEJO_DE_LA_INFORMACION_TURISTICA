@@ -119,14 +119,14 @@ export default {
       referencia:
         'Metodología para la elaboración del inventario de atractivos turísticos',
       tipo: 'Pdf',
-      link:
-        'https://www.casadeculturapiedradelsol.gov.co/wp-content/uploads/2014/09/METODOLOGIA-PARA-LA-ELABORACION-DEL-INVENTARIO-DE-ATRACTIVOS-TURISTICOS.pdf',
+      descarga:
+        '/downloads/METODOLOGIA-PARA-LA-ELABORACION-DEL-INVENTARIO-DE-ATRACTIVOS-TURISTICOS.pdf',
     },
     {
       tema: 'Unesco',
       referencia: 'Identificar e inventariar el patrimonio cultural inmaterial',
       tipo: 'Pdf',
-      link: 'https://ich.unesco.org/doc/src/01856-ES.pdf ',
+      descarga: '/downloads/01856-ES.pdf ',
     },
   ],
   glosario: [

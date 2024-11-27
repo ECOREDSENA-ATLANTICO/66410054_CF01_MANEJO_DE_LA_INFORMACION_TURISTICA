@@ -8,10 +8,10 @@
       h1 Valoración de los atractivos turísticos
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-4.col-md-6.mb-4
+      .col-xl-4.col-md-6.mb-4
         figure
           img(src='@/assets/curso/temas/tema5/img-1.png')
-      .col-lg-8
+      .col-xl-8
         p La valoración de los atractivos turísticos resulta indispensable para determinar un punto de partida, en el que se conozca las condiciones actuales de un destino de manera realista, identificando los factores clave tanto de su potencial como su protección, que garantizan su desarrollo armónico y seguro: <b>la calidad es un conjunto de características que le confieren a un producto o servicio, los atributos necesarios para satisfacer necesidades implícitas y expresas.</b> 
         p Los criterios de calidad varían de acuerdo con el atractivo que se esté evaluando y hacen referencia al grado de conservación en el que se encuentre el atractivo. La calificación de la calidad representa el 70 % del total del puntaje asignable, en donde se deben valorar todos los criterios para cada atractivo. Por otro lado, está el <b>Significado: son los criterios de significado hacen referencia al grado de reconocimiento que tiene el atractivo.</b> Representan el 30% de la calificación. Sólo se valora con uno de los criterios (es una calificación excluyente) y se aplica un valor único.
 
@@ -43,27 +43,27 @@
       .col-xl-8.order-2.order-xl-1
         p Territorio geográfico con sus recursos ambientales y naturales como hábitat humano. En él se verifica:
         .row.justify-content-center.align-items-center 
-          .col-lg-12
+          .col-lg-12.tg-a
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema5/img-4.svg' alt='AvatarTop')
+                img.img-72-(src='@/assets/curso/temas/tema5/img-4.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul.fnd-8
                 .py-3.pe-5
-                  p <b>Constitución del bien:</b> se refiere a los materiales y las técnicas de elaboración del bien. Existen bienes que por su antigüedad poseen materiales y técnicas en desuso o desaparecidas que merecen ser destacadas en el ejercicio de la valoración. Pero, también, pueden existir bienes con materiales o combinación de técnicas modernas que, igualmente, pueden valorarse por su singularidad o porque representan avances tecnológicos.
-          .col-lg-6
+                  p.mb-0 <b>Constitución del bien:</b> se refiere a los materiales y las técnicas de elaboración del bien. Existen bienes que por su antigüedad poseen materiales y técnicas en desuso o desaparecidas que merecen ser destacadas en el ejercicio de la valoración. Pero, también, pueden existir bienes con materiales o combinación de técnicas modernas que, igualmente, pueden valorarse por su singularidad o porque representan avances tecnológicos.
+          .col-lg-6.tg-b
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
                 img.img-72(src='@/assets/curso/temas/tema5/img-4.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul.fnd-8
                 .py-3.px-2
-                  p <b>Estado de conservación:</b> si conserva su homogeneidad estética y su integridad física, desde su situación original o a partir de las posibles acciones del hombre (restauración), para mejorar la calidad del recurso.
-          .col-lg-6
+                  p.mb-0 <b>Estado de conservación:</b> si conserva su homogeneidad estética y su integridad física, desde su situación original o a partir de las posibles acciones del hombre (restauración), para mejorar la calidad del recurso.
+          .col-lg-6.tg-b
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
                 img.img-72(src='@/assets/curso/temas/tema5/img-4.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul.fnd-8
                 .py-3.px-2
-                  p <b>Representatividad:</b> importancia del bien como un elemento que dio partida a un hecho histórico, social o cultural. (Ministerio de Comercio, Industria y Turismo, 2010)
+                  p.mb-0 <b>Representatividad:</b> importancia del bien como un elemento que dio partida a un hecho histórico, social o cultural. (Ministerio de Comercio, Industria y Turismo, 2010)
       .col-lg-4.col-md-8.order-1.order-xl-2
         figure.mb-4
           img(src='@/assets/curso/temas/tema5/img-5.png' alt='Background Image')
@@ -77,10 +77,10 @@
     p Manifestación agrupada bajo la denominación de folklore. En él se verifica que sea:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-3.col-md-8
+      .col-xl-3.col-md-6
         figure.mb-4
           img(src='@/assets/curso/temas/tema5/img-6.png' alt='Background Image')
-      .col-lg-8
+      .col-xl-8
         .row
           .col-lg-6
             .tarjeta-avatar-b.mb-4
@@ -127,8 +127,8 @@
     p.mb-5 Expresión cultural dispuesta para el festejo y el agradecimiento, o para conmemorar u honrar determinadas circunstancias. En ella se verifica:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-8
-        SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
+      .col-xl-8.order-2.order-xl-1
+        SlyderF.mb-5(columnas="col-md-6")
           .tarjeta.fnd-8-2.p-4
             .row.justify-content-end.align-items-end.mb-5
               .col-auto
@@ -151,7 +151,7 @@
             h5 Beneficios económicos locales: 
             p Los ingresos regionales que aporta, los beneficios en el mejoramiento de la calidad de vida de la población y la correcta utilización del presupuesto destinado a la organización del evento.
 
-      .col-lg-4.col-md-8.mb-4
+      .col-xl-4.col-md-6.mb-4.order-1.order-xl-2
         figure
           img(src='@/assets/curso/temas/tema5/img-8.png')
 
@@ -186,7 +186,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/img-10.png')
 
-          .col-lg-8
+          .col-lg-8.py-lg-4.py-xl-0
             .row.pe-lg-3(data-aos="zoom-in")
               .col-auto.pe-2.mt-1
                 img(src="@/assets/curso/temas/tema5/check.svg")
@@ -211,7 +211,7 @@
               .col-auto.pe-2.mt-1
                 img(src="@/assets/curso/temas/tema5/check.svg")
               .col.px-0
-                p.mb-4 Identificar los recursos sobre los cuales es posible establecer acciones de promoción, para que motiven desplazamientos hacia el destino donde estos se encuentran. (Ministerio de Comercio, Industria y Turismo, 2010).
+                p.mb-0.mb-md-4 Identificar los recursos sobre los cuales es posible establecer acciones de promoción, para que motiven desplazamientos hacia el destino donde estos se encuentran. (Ministerio de Comercio, Industria y Turismo, 2010).
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -473,10 +473,10 @@
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-4.col-md-8.order-2.order-lg-1
+      .col-xl-4.col-md-6
         figure.mb-md-4.mb-lg-5
           img(src='@/assets/curso/temas/tema5/img-15.png', alt='')
-      .col-lg-8.order-1.order-lg-2
+      .col-xl-8
         SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
           .tarjeta.fnd-8-9.p-4
             h5.mb-0.text-center Sin contaminación del aire
@@ -501,7 +501,7 @@
             p.mb-0.text-center Son rasgos excepcionales o únicos. En la flora y fauna se denominan endemismo (no se encuentra sino en un área restringida),o relictuales (especies aparentemente desaparecidas evolutivamente).En paisajes se podría definir como que no se encuentra otro de características similares en un ámbito determinado (rareza).
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-8    
+      .col-xl-8    
         .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema1/img-6.png")

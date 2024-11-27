@@ -11,7 +11,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-xl-4.col-md-8
+      .col-xl-4.col-md-5
         figure
           img.mb-4(src='@/assets/curso/portada/img-intro.png', alt='')
 

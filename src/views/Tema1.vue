@@ -10,10 +10,10 @@
     p  En la caracterización de clientes se encuentran varias clasificaciones que tratan de segmentar tipologías del cliente, igualmente existen diferentes perspectivas y enfoques que ayudan en la identificación y conocimiento de sus características, rasgos, hábitos, comportamiento y perfiles; especialmente en el ámbito turístico la importancia de conocer los diversos tipos de clientes permite determinar perspectivas de satisfacción a la hora de adquirir un producto turístico.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4.col-md-8
-        figure.mb-md-4.mb-lg-0
+      .col-xl-4.col-md-5
+        figure.mb-4
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='')
-      .col-lg-8
+      .col-xl-8
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-auto.fnd-t.fnd-t-4
             h4.mb-0 Enfoque de marketing y mercadeo aplicado a algunas tipologías de consumidores.
@@ -27,39 +27,39 @@
       .tarjeta.tarjeta--azul.p-4.mb-5.fnd-2-2
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
-            .col-lg-7
+            .col-xl-7
               h5
                 i Consumer
               p Es el turista clásico, el cual se limita a consumir el producto turístico, el turista que entrega la preparación de sus vacaciones a profesionales y que se deja persuadir en un grado importante, es un turista que utiliza internet de forma muy ocasional, aceptar comprar paquetes turísticos a menudo, al regreso de sus viajes le gusta generar el efecto boca-oreja a un nivel local, casi familiar, por lo que su impacto en otros posibles clientes es limitado, es un cliente que varía poco sus viajes, de manera que si el destino lo satisface lo repetiría y sería fidelidad a él. 
               
-            .col-lg-5.col-md-6.mb-0.mb-md-4
+            .col-xl-5.col-md-6.mb-0.mb-md-4
               figure
                 img(src='@/assets/curso/temas/tema1/img-2.png')
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
-            .col-lg-8
+            .col-xl-8
               h5
                 i Prosumer
               p Le gusta crear su propio producto, desde que le nace la necesidad del viaje, es un consumidor activo el cual utiliza internet para para documentarse de aquellos servicios que le satisfacen a la hora de elegir alguno y le gusta consultar opiniones de otros viajeros, lo cual es esencial entender que el prosumer no tiene una fuente de búsqueda que considera muy importante solamente lo que encuentra en blogs, redes y comunidades sociales o páginas de opinión, Su producto se aparta de los paquetes turísticos creados por las agencias de viajes, ya que busca una experiencia individualizada, que lo lleva a una compra selectiva de servicios, no acostumbra ser un cliente fiel porque busca la diversidad y la experimentación, adquirir una experiencia única. 
               
-            .col-lg-4.mb-0.mb-md-4.col-md-8
+            .col-xl-4.mb-0.mb-md-4.col-md-6
               figure
                 img(src='@/assets/curso/temas/tema1/img-3.png')
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
-            .col-lg-8
+            .col-xl-8
               h5
                 i Adprosumer
               p Usuario que utiliza la Red de forma natural y de modo bidireccional, adquiriendo información y construye sus propios contenidos, para crear su propio producto turístico, no acostumbra ser muy leal al destino que realiza, pero contribuye generando un valor que los otros usuarios no aportan, como es la lealtad diferida, donde el usuario que tiene la disposición para volver a repetir no lo hace pero si recomienda a otros viajeros el destino, el hotel ya que le gusta el cambio y la experiencia que adquiere en cada destino que visita.  
               
-            .col-lg-4.mb-0.mb-md-4.col-md-8
+            .col-xl-4.mb-0.mb-md-4.col-md-6
               figure
                 img(src='@/assets/curso/temas/tema1/img-5.png')
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
-            .col-lg-8
+            .col-xl-8
               h5
                 i Crossumer 
               p El <i>crossumer</i> es un usuario inteligente, que está al corriente de varias de las estrategias de <i>marketing</i> y sabe diferenciar la información de los mensajes que pueden ser persuasivos, es receptivo a toda información que llega de otros consumidores, no utiliza una sola fuente de información, ya que le gusta diversificarla, le gusta actuar como prescriptor que su experiencia es capaz de influir en una gran cantidad de usuarios, los cuales siguen los consejos, por sus conocimientos.  
               
-            .col-lg-4.mb-0.mb-md-4.col-md-8
+            .col-xl-4.mb-0.mb-md-4.col-md-6
               figure
                 img(src='@/assets/curso/temas/tema1/img-4.png')
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
@@ -78,10 +78,10 @@
         h3.mb-0 Perfil de los principales segmentos de mercado más importantes según la Organización Mundial del Turismo (OMT): 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
-      .col-lg-4.col-md-8.order-2.order-lg-1
+      .col-lg-4.col-md-6.order-2.order-xl-1.mb-lg-4
         figure
           img(src='@/assets/curso/temas/tema1/img-7.png')
-      .col-lg-8.order-1.order-lg-2
+      .col-xl-8.order-1.order-xl-2
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-3")
           .row(titulo="Turismo de sol y playa")
             p El turismo de playa se centra en destinos costeros donde los visitantes disfrutan del sol, el mar y actividades recreativas como natación, surf y deportes acuáticos. Este tipo de turismo atrae a quienes buscan relajación, entretenimiento y belleza natural, siendo popular en regiones con climas cálidos y playas paradisíacas.
@@ -97,7 +97,7 @@
             p El turismo urbano se centra en la exploración de ciudades, donde los viajeros disfrutan de la arquitectura, la gastronomía, la vida nocturna y la cultura local. Este tipo de turismo invita a descubrir museos, eventos y atracciones, ofreciendo una experiencia rica y diversa en entornos dinámicos y contemporáneos.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-8
+      .col-xl-8
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-3")
           .row(titulo="Turismo rural")
             p El turismo rural se enfoca en la experiencia en áreas rurales, permitiendo a los viajeros disfrutar de la naturaleza, tradiciones locales y la vida en el campo. Incluye actividades como senderismo, agroturismo y degustaciones de productos locales, promoviendo la sostenibilidad y el desarrollo de comunidades rurales. Es ideal para quienes buscan tranquilidad.
@@ -146,11 +146,11 @@
         h4.mb-0 Tipos de cliente y su clasificación 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-9
+      .col-xl-9.order-2.order-xl-1
         p No existe ninguna clasificación de personalidades que sea perfecta por muy construida que esté, o por mucho rigor científico que se haya empleado en su elaboración. Esto es por una sencilla razón, ni la psicología es una ciencia exacta ni el objeto de su estudio, se comporta de una manera regular y constante. 
         p Lo que nunca debe olvidar quien atiende clientes es que estas clasificaciones son un instrumento, un apoyo que la Psicología le da a fin de perfeccionar su capacidad de gestión, no basta con saber clasificar a un cliente, es saber cómo tratarlo y como llegarle para conseguir el objetivos propuestos, en la generalidad de los casos se atiende más a un rasgo específico de personalidad, más que a un conjunto de ellos, si se prestar atención a como un cliente destaca en ese rasgo concreto, inmediatamente es clasificado en ese grupo, lo que permite sugerirle al profesional cómo tiene que comunicarse para obtener los mejores resultados.
-      .col-lg-3.col-md-8
-        figure
+      .col-xl-3.col-md-6.order-1.order-xl-2
+        figure.mb-4
           img(src='@/assets/curso/temas/tema1/img-11.png')
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
@@ -158,11 +158,11 @@
         h4.mb-0 Clasificación de clientes
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-4.col-md-8.mb-4
+      .col-xl-4.col-md-6.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img-12.png')
-      .col-lg-8
-        SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
+      .col-xl-8
+        SlyderF.mb-5(columnas="col-md-6")
           .tarjeta.fnd-7.p-4
             h5 Clientes rutinarios 
             .row.pe-lg-3(data-aos="zoom-in")

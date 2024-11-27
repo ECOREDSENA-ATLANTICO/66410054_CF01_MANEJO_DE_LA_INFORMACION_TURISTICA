@@ -2,12 +2,12 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 69%
+    top: 60%
     right: 45%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 60%
+    top: 54%
     right: 0%
 
 
@@ -63,6 +63,7 @@
   background-position: center left
   background-repeat: no-repeat
   padding: 0.5rem 1rem    
+  border-radius: 1rem
   &-2
     background-color: #ffffff
     border-radius: 10px
@@ -147,6 +148,8 @@
   background-color: #E9FBE5
   &-1
     background-color: #FEE2DB
+    align-items: center
+    display: flex
   &-2
     background-color: #F6F6F6
   &-3    
@@ -171,6 +174,12 @@
     align-items: end
     align-content: center
     display: grid    
+  &-10
+    background-color: #FEE2DB    
+    align-items: center
+    display: flex
+    flex-direction: column
+    justify-content: center
 .fnd-9    
   &-1
     background-color: #99E7FF
@@ -193,6 +202,8 @@
     background-color: #00C2FF !important
   .tabs-a__tab 
     background-color: #94EE7F
+.tabs-a.color-acento-botones.fnd-10 .tabs-a__tab:hover
+    background-color: #00C2FF !important    
 .tabs-a.color-acento-botones .tabs-a__tab__selected:before 
     background-color: #00C2FF !important
 .fnd-11
@@ -206,6 +217,9 @@
   height: 72px
   width: auto
   margin: auto  
+.img-72-
+  height: 72px
+  
 .img-38
   height: 38px
   width: auto
@@ -216,8 +230,32 @@
     display: flex
   @media (min-width: 1200px)  
     height: 210px    
+.tg-a
+  @media (min-width: 992px) 
+    .tarjeta-avatar-b__img
+      min-width: 10%
+    .tarjeta-avatar-b .tarjeta 
+      margin-left: -5%
+      padding-left: 6%
+      height: 11rem 
+.tg-b
+  @media (min-width: 992px) 
+    .tarjeta-avatar-b .tarjeta 
+      height: 11rem 
+      display: flex
+      align-items: center
+.tg-c
+  @media (min-width: 768px) 
+    .tarjeta-avatar-b .tarjeta 
+      height: 11rem 
+      display: flex
+      align-items: center      
 
-
+  @media (min-width: 1200px) 
+    .tarjeta-avatar-b .tarjeta 
+      height: 13rem 
+      display: flex
+      align-items: center            
 .img-infografica__item, .img-infografica-b__item
     width: 3.5%    
     background-color: #fff   
@@ -239,7 +277,8 @@
   transform: translateY(-50%)
 .b1
   background-color: #D3F8CB !important  
-
+.tarjeta-avatar-b
+    align-items: center
 .cont2
   position: relative
   display: flex
@@ -278,3 +317,7 @@
     border-top: 0px solid #006170  !important
     border-left: 0px solid #006170  !important
     background-color: #fff !important
+.banner-interno__titulo__icono 
+    background-color: #00C2FF
+.banner-interno__titulo__icono i 
+    color: #ffffff    
