@@ -22,41 +22,37 @@
           .col
             .cajon.color-secundario.p-4
               h5 Características del comportamiento
-              p.mb-0 Complejo: Hay muchas variables internas y externas que influyen en el comportamiento. 
+              p.mb-0 Complejo: hay muchas variables internas y externas que influyen en el comportamiento. 
               p.mb-0 Cambia con el ciclo de vida del producto. 
               p.mb-0 Varía según el tipo de productos. 
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-6.fnd-9-1.p-4.fnd-9   
-        h3.mt-lg-5 Factores explicativos del comportamiento del consumidor al momento de la compra 
+        h3 Factores explicativos del comportamiento del consumidor al momento de la compra 
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema2/check.svg")
           .col.px-0
-            p.mb-0 <b>Cultural:</b> Cultura, subcultura, Clase social.
+            p.mb-0 <b>Cultural:</b> cultura, subcultura, clase social.
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema2/check.svg")
           .col.px-0
-            p.mb-0 <b>Sociales:</b> Grupos de referencia, familia, roles y estatus.
+            p.mb-0 <b>Sociales:</b> grupos de referencia, familia, roles y estatus.
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema2/check.svg")
           .col.px-0
-            p.mb-0 <b>Personales:</b> Edad, etapa y etapa, ciclo de vida, ocupación, circunstancias económicas, estilos de vida. 
+            p.mb-0 <b>Personales:</b> edad, etapa, ciclo de vida, ocupación, circunstancias económicas, estilos de vida. 
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema2/check.svg")
           .col.px-0
-            p.mb-0 <b>Psicológicas:</b> Motivación, percepción, aprendizaje, creencias y actitudes.
+            p.mb-0 <b>Psicológicas:</b> motivación, percepción, aprendizaje, creencias y actitudes.
 
       .col-lg-6.fnd-9-2.p-4.fnd-9   
         h3 Factores para la comprensión del comportamiento del consumidor
-        .row.pe-lg-3(data-aos="zoom-in")
-          .col-auto.pe-2.mt-1
-            img(src="@/assets/curso/temas/tema2/check2.svg")
-          .col.px-0
-            p.mb-0 <b>Factores de mercado:</b> extensión.
+
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema2/check2.svg")
@@ -71,7 +67,7 @@
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema2/check2.svg")
           .col.px-0
-            p.mb-0 <b>Factores de empresa:</b> se refieren a la mayor utilización del marketing orientado a los consumidores. 
+            p.mb-0 <b>Factores de empresa:</b> se refieren a la mayor utilización del <i>marketing</i> orientado a los consumidores. 
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema2/check2.svg")
@@ -85,7 +81,7 @@
       .col-auto.pe-2
         img(src="@/assets/curso/temas/tema1/img-6.png")
       .col.px-0
-        h3.mb-0 Fases del proceso de decisión de compra:    
+        h3.mb-0 Fases del proceso de decisión de compra  
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -100,11 +96,11 @@
             p <b>Reconocimiento del problema:</b> aparece la necesidad unida al deseo de satisfacerla. La acción de <em>marketing</em> consiste en orientar y canalizar las necesidades hacia la demanda de los productos ya ofertados. 
           .tarjeta.fnd-8-7.p-3(x="40.7%" y="84.8%" numero="2")
             p <b>Investigación de información:</b> interna (memoria), o externa (amigos, expertos, catálogos).
-            p Evaluación de las alternativas posibles para satisfacer la necesidad: Marcas y productos. Perciben los atributos de los productos que pueden satisfacer la necesidad y se procede a jerarquizarlos. 
+            p Evaluación de las alternativas posibles para satisfacer la necesidad: marcas y productos. Perciben los atributos de los productos que pueden satisfacer la necesidad y se procede a jerarquizarlos. 
 
           .tarjeta.fnd-8-7.p-3(x="60.1%" y="26.4%" numero="3")
-            p <b>Adquirir o no Adquirir:</b> influyen las diferentes informaciones: Beneficios que aportará el producto, el entorno, la decisión de compra previamente establecida. 
-            p <b>Si se ha efectuado la compra, fase de satisfacción o insatisfacción.</b> Si el producto es satisfactorio, seguramente se volverá a comprar: Lealtad a la marca. Si no es así, cambio de marca. 
+            p <b>Adquirir o no adquirir:</b> influyen las diferentes informaciones: beneficios que aportará el producto, el entorno, la decisión de compra previamente establecida. 
+            p <b>Si se ha efectuado la compra, fase de satisfacción o insatisfacción.</b> Si el producto es satisfactorio, seguramente se volverá a comprar: lealtad a la marca. Si no es así, cambio de marca. 
             p El hábito adquirido con el uso o consumo de productos será una información que se guardará y se podrá utilizar en un nuevo proceso de decisión de compra.  
 
                     
@@ -172,15 +168,15 @@
             .row.pe-lg-3(data-aos="zoom-in")
               .col-auto.pe-2.mt-1
                 img(src="@/assets/curso/temas/tema2/check.svg")
-              .col.px-0 Tipos de vacaciones 
+              .col.px-0 Tipos de vacaciones.
             .row.pe-lg-3(data-aos="zoom-in")
               .col-auto.pe-2.mt-1
                 img(src="@/assets/curso/temas/tema2/check.svg")
-              .col.px-0 Diferentes destinos 
+              .col.px-0 Diferentes destinos. 
             .row.pe-lg-3(data-aos="zoom-in")
               .col-auto.pe-2.mt-1
                 img(src="@/assets/curso/temas/tema2/check.svg")
-              .col.px-0 Diferentes ofertas
+              .col.px-0 Diferentes ofertas.
 
       .col-lg-4.col-md-8.d-none.d-xl-block
         figure.mb-md-4.mb-lg-0
@@ -237,7 +233,7 @@
                   .tarjeta-flip__img.fl1(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-11.png')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5.fnd-7
                     h5.text-center.mt-lg-5 Sitios naturales:
-                    p compuesto por las áreas geográficas (conjunto de atractivos con sus componentes) y los recursos naturales de importancia e interés para el turismo.
+                    p Compuesto por las áreas geográficas (conjunto de atractivos con sus componentes) y los recursos naturales de importancia e interés para el turismo.
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")

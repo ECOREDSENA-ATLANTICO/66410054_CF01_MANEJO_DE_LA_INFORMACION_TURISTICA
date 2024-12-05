@@ -36,23 +36,23 @@
         figure
           img(src='@/assets/curso/temas/tema2/img-2.png', alt='')
         .p-4
-          p Cambios en el consumidor 
+          h4 Cambios en el consumidor 
           H4 Escepticismo
           .row.pe-lg-3(data-aos="zoom-in")
             .col-auto.pe-2.mt-1
               img(src="@/assets/curso/temas/tema2/check2.svg")
             .col.px-0
-              p.mb-0 El consumidor se ha vuelto escéptico 
+              p.mb-0 El consumidor se ha vuelto escéptico.
           .row.pe-lg-3(data-aos="zoom-in")
             .col-auto.pe-2.mt-1
               img(src="@/assets/curso/temas/tema2/check2.svg")
             .col.px-0
-              p.mb-0 Ahora es mucho más difícil convencerle de las ventajas de una oferta
+              p.mb-0 Ahora es mucho más difícil convencerle de las ventajas de una oferta.
       .col-lg-4.col-md-8.fnd-8-5.px-0
         figure
           img(src='@/assets/curso/temas/tema2/img-3.png', alt='')
         .p-4
-          p <b>Deslealtad</b>
+          h4 Deslealtad
           .row.pe-lg-3(data-aos="zoom-in")
             .col-auto.pe-2.mt-1
               img(src="@/assets/curso/temas/tema2/check2.svg")
@@ -69,8 +69,8 @@
           img.mb-4(src='@/assets/curso/temas/tema2/img-4.png', alt='')
 
       .col-xl-8
-        p El <em>marketing</em> turístico debe estar capacitado para entender la demanda del futuro, y estar al tanto de qué tipos de turistas son los que tendremos, y cómo se dispondrá de su espacio libre, y que cantidad tiempo brindará a sus vacaciones, y la distribución que hará a lo prolongado del año, cómo realizará la escogencia de los lugares que visitará en sus vacaciones, y el transporte utilizará. 
-        p El consumidor turístico actual presenta características visiblemente diferentes a las que tenía en los años 70 y 80, de las cuales se destacan: multiconsumidor turístico perfecto es el que a lo extenso de una etapa determinada opera bajo varias formas de consumo turístico y es el que ejecuta diferentes acciones. 
+        p El <em>marketing</em> turístico debe estar capacitado para entender la demanda del futuro, y estar al tanto de qué tipos de turistas son los que tendremos, y cómo se dispondrá de su espacio libre, y que cantidad de tiempo brindará a sus vacaciones, y la distribución que hará a lo prolongado del año, cómo realizará la escogencia de los lugares que visitará en sus vacaciones, y el que transporte utilizará. 
+        p El consumidor turístico actual presenta características visiblemente diferentes a las que tenía en los años 70 y 80, de las cuales se destacan: multiconsumidor turístico perfecto, es el que a lo extenso de una etapa determinada opera bajo varias formas de consumo turístico y es el que ejecuta diferentes acciones. 
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-xl-3.col-md-6.tg-c
@@ -87,7 +87,7 @@
             img(src='@/assets/curso/temas/tema2/img-5.png', alt='')
           .tarjeta.tarjeta--azul.fnd-8-1
             .p-4
-              p Es el que divide más las estancias, a lo largo del año establece varios períodos de vacaciones, los cuales son más cortos.      
+              p El que divide más las estancias, a lo largo del año establece varios períodos de vacaciones, los cuales son más cortos.      
     
       .col-xl-3.col-md-6.tg-c
         .tarjeta-avatar-b.mb-5.ta-ge

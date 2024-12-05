@@ -14,7 +14,7 @@ export default {
   data: () => ({
     cuestionario: {
       tema:
-        'Asesoría turística basada en necesidades y expectativas del cliente',
+        'Asesoría turística basada en necesidades y expectativas del cliente.',
       titulo: 'Cuestionario',
       introduccion:
         'Preguntas de opción múltiple: lea los siguientes enunciados y seleccione la respuesta que considere correcta.',
@@ -35,7 +35,7 @@ export default {
             {
               id: 'b',
               texto:
-                'Conocer las expectativas y preferencias individuales del cliente',
+                'Conocer las expectativas y preferencias individuales del cliente.',
               esCorrecta: true,
             },
             {
@@ -74,13 +74,13 @@ export default {
             {
               id: 'c',
               texto:
-                'Ofrecer opciones basadas en su interés por actividades de aventura',
+                'Ofrecer opciones basadas en su interés por actividades de aventura.',
               esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'Mandar una lista de todos los destinos posibles sin filtro',
+                'Mandar una lista de todos los destinos posibles sin filtro.',
               esCorrecta: false,
             },
           ],
@@ -108,7 +108,7 @@ export default {
             {
               id: 'c',
               texto:
-                'Ofrecer alternativas dentro del presupuesto y ajustadas al tiempo disponible',
+                'Ofrecer alternativas dentro del presupuesto y ajustadas al tiempo disponible.',
               esCorrecta: true,
             },
             {
@@ -180,7 +180,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Sugerir destinos populares sin preguntar al cliente',
+              texto: 'Sugerir destinos populares sin preguntar al cliente.',
               esCorrecta: false,
             },
           ],
@@ -190,7 +190,7 @@ export default {
         {
           id: 6,
           texto:
-            '¿Cuándo un cliente expresa la necesidad de un viaje de relax, ¿qué tipo de destino debería recomendar el asesor turístico',
+            'Cuando un cliente expresa la necesidad de un viaje de <i>relax</i>, ¿qué tipo de destino debería recomendar el asesor turístico?',
           imagen: require('@/assets/actividad/img-6.png'),
           barajarRespuestas: true,
           opciones: [
@@ -206,7 +206,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Un destino con parques de diversiones',
+              texto: 'Un destino con parques de diversiones.',
               esCorrecta: false,
             },
             {
@@ -233,7 +233,7 @@ export default {
             {
               id: 'b',
               texto:
-                'Ayuda a identificar de manera clara las necesidades y expectativas del cliente',
+                'Ayuda a identificar de manera clara las necesidades y expectativas del cliente.',
               esCorrecta: true,
             },
             {
@@ -309,7 +309,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Clientes con intereses generales, sin necesidad de personalización',
+                'Clientes con intereses generales, sin necesidad de personalización.',
               esCorrecta: false,
             },
           ],
@@ -358,7 +358,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Ofrecer paquetes con muchas actividades para que el cliente no se aburra',
+                'Ofrecer paquetes con muchas actividades para que el cliente no se aburra.',
               esCorrecta: false,
             },
             {
@@ -426,7 +426,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Para darles el destino más económico sin tomar en cuenta sus deseos.',
+                'Para darles el destino sea más económico sin tomar en cuenta sus deseos.',
               esCorrecta: false,
             },
             {
@@ -545,7 +545,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Solo sus preferencias sobre el tipo de comida durante el viaje',
+                'Solo sus preferencias sobre el tipo de comida durante el viaje.',
               esCorrecta: false,
             },
           ],
@@ -562,7 +562,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Ignorar sus comentarios y insistir en las mismas opciones.',
+                'Ignorar sus comentarios e insistir en las mismas opciones.',
               esCorrecta: false,
             },
             {
@@ -606,12 +606,12 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Proponer solo destinos para grupos grandes',
+              texto: 'Proponer solo destinos para grupos grandes.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Ofrecer solo actividades deportivas extremas',
+              texto: 'Ofrecer solo actividades deportivas extremas.',
               esCorrecta: false,
             },
           ],
@@ -634,7 +634,7 @@ export default {
             {
               id: 'b',
               texto:
-                'Indicarle las opciones disponibles en ese destino y ajustarlas a sus necesidades',
+                'Indicarle las opciones disponibles en ese destino y ajustarlas a sus necesidades.',
               esCorrecta: true,
             },
             {
@@ -673,13 +673,13 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Para ofrecer únicamente destinos exóticos',
+              texto: 'Para ofrecer únicamente destinos exóticos.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Para sugerir destinos donde el cliente no esté familiarizado con las costumbres locales',
+                'Para sugerir destinos donde el cliente no esté familiarizado con las costumbres locales.',
               esCorrecta: false,
             },
           ],

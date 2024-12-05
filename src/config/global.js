@@ -178,12 +178,12 @@ export default {
     {
       termino: 'El <em>prosumer</em>',
       significado:
-        'le gusta crear su propio producto, desde que le nace la necesidad del viaje, es un consumidor activo el cual utiliza internet para para documentarse de aquellos servicios que le satisfacen a la hora de elegir algun.',
+        'le gusta crear su propio producto, desde que le nace la necesidad del viaje, es un consumidor activo el cual utiliza internet para para documentarse de aquellos servicios que le satisfacen a la hora de elegir alguno.',
     },
     {
       termino: 'El turismo ecológico o ecoturismo',
       significado:
-        'es una nueva tendencia del Turismo Alternativo diferente al Turismo tradicional. Es un enfoque para las actividades turísticas en el cual se privilegia la sustentabilidad,la preservación, la apreciación del medio que acoge y sensibiliza a los viajantes.',
+        'es una nueva tendencia del turismo alternativo diferente al turismo tradicional. Es un enfoque para las actividades turísticas en el cual se privilegia la sustentabilidad,la preservación, la apreciación del medio que acoge y sensibiliza a los viajantes.',
     },
     {
       termino: 'Excursionista',
@@ -193,7 +193,7 @@ export default {
     {
       termino: 'Estructura',
       significado:
-        'llamada Planta Turística, está conformada por las edificaciones, instalaciones, organizaciones públicas y privadas dirigidas a la satisfacción del consumidor o usuario del servicio turístico, durante la comercialización, venta, producción y realización de este. Comprende los servicios de transporte, alojamiento u hospedaje; de alimentos y bebidas, de recreación o entretenimiento y servicios complementarios.',
+        'llamada Planta Turística, está conformada por las edificaciones, instalaciones, organizaciones públicas y privadas dirigidas a la satisfacción del consumidor o usuario del servicio turístico, durante la comercialización, venta, producción y realización de éste. Comprende los servicios de transporte, alojamiento u hospedaje; de alimentos y bebidas, de recreación o entretenimiento y servicios complementarios.',
     },
     {
       termino: 'Facilidades turísticas',
@@ -249,13 +249,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Barrios Salas, L. A. (21 de agosto de 2009). Elaboración de circuitos eléctricos. Recuperado el octubre de 2014, de Scribed. ',
+        'Barrios Salas, L. A. (21 de agosto de 2009). Elaboración de circuitos turísticos. Recuperado el octubre de 2014, de Scribed. ',
       link:
         'http://es.scribd.com/doc/18972548/Elaboracion-de-un-Circuito-Turistico ',
     },
     {
       referencia:
-        'Blogspot.com. (2009). tipos de clientes y su clasificación. recuperado el 5 de Noviembre de 2014',
+        'Blogspot.com. (2009). tipos de clientes y su clasificación. recuperado el 5 de noviembre de 2014',
       link:
         'http://afvtgt09.blogspot.com/2009/10/tipos-de-cliente-y-su-clasificacion.html ',
     },
@@ -281,7 +281,7 @@ export default {
     },
     {
       referencia:
-        'minep - Ministerio para la Economía Popular. (2005). Aspectos generales de turismo y alojamiento. recuperado el 19 de 02 de 2014',
+        'Minep - Ministerio para la Economía Popular. (2005). Aspectos generales de turismo y alojamiento. recuperado el 19 de febrero de 2014',
       link: 'http://es.scribd.com/doc/6801115/Turismo-y-Alojamiento',
     },
     {
@@ -290,13 +290,13 @@ export default {
     },
     {
       referencia:
-        'Muñiz González, R. (2014). Atributos de Producto. Recuperado el 24 de Noviembre de 2014, de Marketing- XXI:',
+        'Muñiz González, R. (2014). Atributos de Producto. Recuperado el 24 de noviembre de 2014, de<i> Marketing</i>- XXI',
       link:
         'http://www.slideshare.net/urania31k/el-producto-turstico?from_search=2',
     },
     {
       referencia:
-        'Sobejano, J. (febrero de 2009). Los Distintos Modelos del Nuevo Cliente Turístico. Recuperado el 5 de noviembre de 2014tractivos turísticos. Recuperado el 31 de octubre de 2012',
+        'Sobejano, J. (febrero de 2009). Los Distintos Modelos del Nuevo Cliente Turístico. Recuperado el 5 de noviembre de 2014, de www.hosteltur.com',
       link:
         'http://www.hosteltur.com/58823_distintos-modelos-nuevo-cliente-turistico.html',
     },
@@ -333,50 +333,35 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'José Armando Díaz Londoño',
-          cargo: 'Experto temático',
-          centro: 'Centro de comercio y servicios - Regional Caldas',
-        },
-        {
           nombre: 'Olga Beatriz Zuleta Arango',
           cargo: 'Experto temático',
-          centro: 'Centro de comercio y servicios - Regional Caldas',
-        },
-        {
-          nombre: 'Gualberto Enrique Benítez',
-          cargo: 'Experto temático',
-          centro: 'Centro de comercio y servicios - Regional Caldas',
+          centro: 'Centro de Comercio y Servicios - Regional Caldas',
         },
         {
           nombre: 'José Armando Díaz Londoño',
           cargo: 'Experto temático',
-          centro: 'Centro de comercio y servicios - Regional Caldas',
+          centro: 'Centro de Comercio y Servicios - Regional Caldas',
         },
         {
           nombre: 'Rosa Elvia Quintero Guasca',
           cargo: 'Asesora pedagógica',
-          centro: 'Centro de comercio y servicios - Regional Caldas',
+          centro: 'Centro de Comercio y Servicios - Regional Caldas',
         },
         {
           nombre: 'Luis Orlando Beltrán Vargas',
           cargo: 'Asesor pedagógico',
-          centro: 'Centro de comercio y servicios - Regional Caldas',
+          centro: 'Centro de Comercio y Servicios - Regional Caldas',
         },
         {
           nombre: 'José Armando Díaz Londoño',
-          cargo: 'Líder de expertos temáticos',
-          centro: 'Centro de comercio y servicios - Regional Caldas',
-        },
-        {
-          nombre: 'Santiago Lozada Garcés',
-          cargo: 'Líder línea de producción',
-          centro: 'Centro de comercio y servicios - Regional Caldas',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios - Regional Caldas',
         },
         {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -385,7 +370,7 @@ export default {
       autores: [
         {
           nombre: 'Carmen Alicia Martinez Torres',
-          cargo: 'Diseñor web',
+          cargo: 'Diseñor <i>web</i>',
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },

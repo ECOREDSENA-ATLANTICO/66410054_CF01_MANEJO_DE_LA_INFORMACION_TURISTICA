@@ -27,7 +27,7 @@
             img.img-72(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
           .tarjeta.tarjeta--azul.fnd-8
             .p-4         
-              p.mb-0 <b>Recurso:</b> Factores físicos y culturales potencialmente explotables por el turismo.
+              p.mb-0 <b>Recurso:</b> factores físicos y culturales potencialmente explotables por el turismo.
     
       .col-lg-7
         .tarjeta-avatar-b.mb-5
@@ -35,7 +35,7 @@
             img.img-72(src='@/assets/curso/temas/tema4/img-3.svg', alt='')
           .tarjeta.tarjeta--azul.fnd-8
             .p-4
-              p.mb-0 <b>Atractivo:</b> Factores físicos y culturales que reúnen las condiciones para ser integrados de inmediato a los productos turísticos. 
+              p.mb-0 <b>Atractivo:</b> factores físicos y culturales que reúnen las condiciones para ser integrados de inmediato a los productos turísticos. 
     p.mb-4 El objetivo de un inventario de atractivos turísticos es realizar una evaluación objetiva (cualitativa y cuantitativa) de los atractivos y recursos con los cuales se dispone, seleccionando aquellos susceptibles de aprovechamiento turístico inmediato, o para establecer acciones de mejoramiento sobre ellos, haciéndolos visibles para su inclusión en el diseño de productos turísticos.
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
@@ -46,7 +46,7 @@
 
 
     TabsA.color-acento-botones.mb-5.fnd-10(data-aos="fade-left")
-      .tarjeta.fnd-8-8.p-4(titulo="Patrimonio Cultural")
+      .tarjeta.fnd-8-8.p-4(titulo="Patrimonio cultural")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
           .col-xl-5            
             p Se define como el conjunto de bienes y manifestaciones culturales, materiales e inmateriales, que se encuentra en permanente construcción sobre el territorio transformado por las comunidades. Dichos bienes y manifestaciones se constituyen en valores que conforman sentido y lazo de permanencia, identidad y memoria para un grupo o colectivo humano.
@@ -76,8 +76,8 @@
       .tarjeta.fnd-8-8.p-4(titulo="Festividades y eventos")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
           .col-xl-7          
-            p son atractivos que se generan en la realización de eventos con contenido actual o tradicional, en los cuales, la población es actora o espectadora. 
-            p Grupos de especial interés: Constituidos por comunidades indígenas, comunidades negras y comunidades raizales, en las cuales se valora el respeto por sus costumbres como una forma de conservación auténtica de su legado cultural.
+            p Son atractivos que se generan en la realización de eventos con contenido actual o tradicional, en los cuales, la población es actora o espectadora. 
+            p <b>Grupos de especial interés:</b> constituidos por comunidades indígenas, comunidades negras y comunidades raizales, en las cuales se valora el respeto por sus costumbres como una forma de conservación auténtica de su legado cultural.
             
           .col-lg-5.col-md-6
             figure

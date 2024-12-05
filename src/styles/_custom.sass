@@ -10,7 +10,6 @@
     top: 54%
     right: 0%
 
-
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -23,6 +22,16 @@
   @media (min-width: 576px) 
     padding: 0px !important
     padding-right: 0px !important
+
+.banner-principal .tarjeta   
+  background-image: url(../assets/curso/portada/fondo-banner-principal-.png) !important
+  background-repeat: no-repeat      
+  background-position: bottom center
+  background-color: #396D78
+  background-size: cover    
+  @media(min-width: 992px)
+    background-image: url(../assets/curso/portada/fondo-banner-principal.png) !important    
+
 @media (min-width: 576px) 
     .banner-principal__row .banner-principal__img 
         padding-right: 0rem !important
@@ -188,15 +197,12 @@
     background-color: #CDF3FF
     border-radius: 0 2rem 2rem 0
     
-  @media (max-width: 768px)  
+  @media (max-width: 992px)  
     &-1
       margin-bottom: 2rem
     border-radius: 2rem
     
-  @media (min-width: 1200px)        
-    height: 370px
-  @media (min-width: 992px) and (max-width: 1200px)       
-    height: 464px 
+
 .fnd-10
   .tabs-a__tab.tabs-a__tab__selected, .tabs-a.color-acento-botones .tabs-a__tab:hover,
     background-color: #00C2FF !important
@@ -290,13 +296,16 @@
 .tbl
   td
     border: 2px solid #006170
+    
     &:nth-child(1)
       width: 20%
       text-align: center
+      background-color: #D6FBD8
       @media (max-width: 768px) 
         width: 30%
     &:nth-child(2)
-      padding-left: 3rem     
+      padding-left: 3rem  
+      background-color: #F4FDF4    
       @media (max-width: 768px)  
         padding-left: 1rem     
 

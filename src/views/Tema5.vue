@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema5/img-1.png')
       .col-xl-8
         p La valoración de los atractivos turísticos resulta indispensable para determinar un punto de partida, en el que se conozca las condiciones actuales de un destino de manera realista, identificando los factores clave tanto de su potencial como su protección, que garantizan su desarrollo armónico y seguro: <b>la calidad es un conjunto de características que le confieren a un producto o servicio, los atributos necesarios para satisfacer necesidades implícitas y expresas.</b> 
-        p Los criterios de calidad varían de acuerdo con el atractivo que se esté evaluando y hacen referencia al grado de conservación en el que se encuentre el atractivo. La calificación de la calidad representa el 70 % del total del puntaje asignable, en donde se deben valorar todos los criterios para cada atractivo. Por otro lado, está el <b>Significado: son los criterios de significado hacen referencia al grado de reconocimiento que tiene el atractivo.</b> Representan el 30% de la calificación. Sólo se valora con uno de los criterios (es una calificación excluyente) y se aplica un valor único.
+        p Los criterios de calidad varían de acuerdo con el atractivo que se esté evaluando y hacen referencia al grado de conservación en el que se encuentre el atractivo. La calificación de la calidad representa el 70 % del total del puntaje asignable, en donde se deben valorar todos los criterios para cada atractivo. Por otro lado, está el <b>Significado: los criterios de significado hacen referencia al grado de reconocimiento que tiene el atractivo.</b> Representan el 30 % de la calificación. Sólo se valora con uno de los criterios (es una calificación excluyente) y se aplica un valor único.
 
     .row.justify-content-center.align-items-center(fade-left)
       .col-lg-8
@@ -72,7 +72,7 @@
       .col-auto.pe-2
         img(src="@/assets/curso/temas/tema1/img-6.png")
       .col.px-0
-        h3.mb-0 Patrimonio Inmaterial
+        h3.mb-0 Patrimonio inmaterial
 
     p Manifestación agrupada bajo la denominación de folklore. En él se verifica que sea:
 
@@ -88,35 +88,35 @@
                 img.img-72(src='@/assets/curso/temas/tema5/img-7.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul.fnd-8-1
                 .py-3.px-2
-                  p.mb-0 <b>Colectiva:</b> Común a un grupo humano que se siente representado en este hecho, que lo usufructúa y lo transmite.
+                  p.mb-0 <b>Colectiva:</b> común a un grupo humano que se siente representado en este hecho, que lo usufructúa y lo transmite.
           
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
                 img.img-72(src='@/assets/curso/temas/tema5/img-7.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul.fnd-8-1
                 .py-3.px-2
-                  p.mb-0 <b>Tradicional:</b> Se transmite de generación en generación y sus orígenes se pierden en el tiempo.
+                  p.mb-0 <b>Tradicional:</b> se transmite de generación en generación y sus orígenes se pierden en el tiempo.
           
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
                 img.img-72(src='@/assets/curso/temas/tema5/img-7.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul.fnd-8-1
                 .py-3.px-2
-                  p <b>Anónima:</b> No tiene autor conocido y su origen se remonta a tiempos muy antiguos.
+                  p <b>Anónima:</b> no tiene autor conocido y su origen se remonta a tiempos muy antiguos.
           .col-lg-6      
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
                 img.img-72(src='@/assets/curso/temas/tema5/img-7.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul.fnd-8-1
                 .py-3.px-2
-                  p <b>Espontánea:</b> Responde al modo natural, sencillo e ingenuo con que se transmite una expresión.
+                  p <b>Espontánea:</b> responde al modo natural, sencillo e ingenuo con que se transmite una expresión.
           
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
                 img.img-72(src='@/assets/curso/temas/tema5/img-7.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul.fnd-8-1
                 .py-3.px-2
-                  p <b>Popular:</b> Representa la cotidianidad de las masas populares.
+                  p <b>Popular:</b> representa la cotidianidad de las masas populares.
          
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
@@ -124,7 +124,7 @@
         img(src="@/assets/curso/temas/tema1/img-6.png")
       .col.px-0
         h3.mb-0 Festividades y eventos
-    p.mb-5 Expresión cultural dispuesta para el festejo y el agradecimiento, o para conmemorar u honrar determinadas circunstancias. En ella se verifica:
+    p.mb-5 Expresión cultural dispuesta para el festejo y el agradecimiento o para conmemorar u honrar determinadas circunstancias. En ella se verifica:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-xl-8.order-2.order-xl-1
@@ -135,7 +135,7 @@
                 figure
                   img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg' alt='Background Image')
             h5 Organización del evento: 
-            p Valora aspectos como el contenido de este, programación, cumplimiento, logística.
+            p Valora aspectos como el contenido de éste, programación, cumplimiento, logística.
           .tarjeta.fnd-8-2.p-4
             .row.justify-content-end.align-items-end.mb-5
               .col-auto
@@ -161,11 +161,11 @@
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema1/img-6.png")
           .col.px-0
-            h3.mb-0 Grupos de Especial Interés
+            h3.mb-0 Grupos de especial interés
         .row.justify-content-center.align-items-center
           .col-lg-6
             .cajon.color-acento-botones.p-4.mb-4.fnd-8-3
-              p.mb-0 Organizaciones con un interés común, como los indígenas y las comunidades negras y raizales. Su valoración más importante es:
+              p.mb-0 Organizaciones con un interés común, como los indígenas y las comunidades negras y raizales. Su valoración más importante.
 
           .col-lg-6
             .tarjeta-avatar-b.mb-4
@@ -179,7 +179,7 @@
       .col-lg-10
         .row.pe-lg-3.justify-content-center(data-aos="zoom-in")
           .col-auto.pe-2.mt-1.fnd-t-3.fnd-t
-            h5 Significado: 
+            h5 Significado
         p.mb-5 Este segundo grupo de criterios de valoración tiene como objetivo determinar los siguientes aspectos:
         .row.justify-content-center.align-items-center.mb-5.fnd-8-4
           .col-lg-4.col-md-8.mb-md-4.mb-lg-0
@@ -218,7 +218,7 @@
       .col-xl-10.fnd-6.fnd-6-1
         .row.align-items-center.fnd-5
           .col-xl-9.col-lg-8
-            p.mb-0 El significado de un atractivo turístico está determinado por el conocimiento que de él se tenga fuera del entorno local. Cuando se identifica y se evidencia este reconocimiento en uno o más departamentos (se le asigna el puntaje correspondiente al significado regional); en el país (se le asigna el puntaje correspondiente al significado nacional); en dos o más países (se le asigna el puntaje correspondiente al significado internacional).d de estos bienes es importante tener en cuenta la categorización: “clasificación de los bienes y atractivos” y los criterios que se enuncian a continuación:
+            p.mb-0 El significado de un atractivo turístico está determinado por el conocimiento que de él se tenga fuera del entorno local. Cuando se identifica y se evidencia este reconocimiento en uno o más departamentos (se le asigna el puntaje correspondiente al significado regional); en el país (se le asigna el puntaje correspondiente al significado nacional); en dos o más países (se le asigna el puntaje correspondiente al significado internacional).
 
           .col-xl-2.col-lg-3
             figure.fl-box-img.img-3
@@ -229,16 +229,17 @@
         
         .titulo-sexto.color-acento-botones
           h5 Tabla 1. 
-          span Grado de reconocimiento
+          span 
+            i Grado de reconocimiento
 
         table.tbl.mb-5
-          caption Fuente: Sena.
+          caption Fuente: Sena(2024).
           tr
             td Local 	
             td Grado de reconocimiento del atractivo dentro del área municipal.
           tr
             td Regional	
-            td Grado de reconocimiento del atractivo en un área de uno o más departamentos      
+            td Grado de reconocimiento del atractivo en un área de uno o más departamentos.      
           tr
             td Nacional	
             td Grado de reconocimiento del atractivo dentro del país.
@@ -265,7 +266,7 @@
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema5/check2.svg")
           .col.px-0
-            p.mb-0 Paquetes turísticos diseñados por agencias de viajes mayoristas (tour operadores), nacionales o internacionales.
+            p.mb-0 Paquetes turísticos diseñados por agencias de viajes mayoristas (<i>tour</i> operadores), nacionales o internacionales.
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema5/check2.svg")
@@ -279,7 +280,7 @@
         img(src="@/assets/curso/temas/tema1/img-6.png")
       .col.px-0
         h3.mb-0 Asignación de puntaje
-    p.mb-4 Herramientas técnicas basada en criterios seleccionados y adaptados para la toma de decisiones en materia de gestión turística. Su puntaje se deriva del nivel de importancia para cada criterio:
+    p.mb-4 Herramientas técnicas basadas en criterios seleccionados y adaptados para la toma de decisiones en materia de gestión turística. Su puntaje se deriva del nivel de importancia para cada criterio:
 
     .row.justify-content-center.align-items-center.mb-5.fnd-11.p-4(data-aos="fade-right")
       .row.justify-content-center.align-items-center
@@ -296,7 +297,8 @@
                       thead
                         tr
                           th.tb 
-                          th.text-center(colspan="2") Puntaje
+                          th.text-center(colspan="2") 
+                            h4.mb-0 Puntaje
                         tr
                           th.text-center(rowspan="4") 
                             h4 Calidad                        
@@ -328,7 +330,7 @@
                           td 30
                         tr
                           td Total
-                          td 30
+                          td 66
               .row.justify-content-center.align-items-center.p-4.p-md-1
                 .col-lg-4.mb-4.mb-md-0
                   h4.text-center Patrimonio inmaterial:
@@ -339,7 +341,8 @@
                       thead
                         tr
                           th.tb 
-                          th.text-center(colspan="2") Puntaje                      
+                          th.text-center(colspan="2") 
+                            h4.mb-0 Puntaje                      
                         tr
                           th.text-center(rowspan="7") 
                             h4 Calidad
@@ -377,7 +380,7 @@
                           td 30
                         tr
                           td Total
-                          td 30
+                          td 66
 
               .row.justify-content-center.align-items-center.p-4.p-md-1
                 .col-lg-4.mb-4.mb-md-0
@@ -389,7 +392,8 @@
                       thead            
                         tr
                           th.tb 
-                          th.text-center(colspan="2") Puntaje       
+                          th.text-center(colspan="2") 
+                            h4.mb-0 Puntaje       
                         tr
                           th.text-center(rowspan="4") 
                             h4 Calidad
@@ -420,7 +424,7 @@
                           td 30
                         tr
                           td Total
-                          td 30
+                          td 66
 
               .row.justify-content-center.align-items-center.p-4.p-md-1
                 .col-lg-4.mb-4.mb-md-0
@@ -432,7 +436,8 @@
                       thead            
                         tr
                           th.tb 
-                          th.text-center(colspan="2") Puntaje
+                          th.text-center(colspan="2") 
+                            h4.mb-0 Puntaje
                         tr
                           th.text-center(rowspan="2") 
                             h4 Calidad
@@ -457,11 +462,11 @@
                           td 30
                         tr
                           td Total
-                          td 30
+                          td 66
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2.mt-1.fnd-t.fnd-t-2
-        h5 Criterios para la Valoración de Sitios Naturales:  
+        h5 Criterios para la valoración de sitios naturales  
     
     p La valoración de los recursos naturales facilita la toma de decisiones para implementar una actividad recreativa sobre un determinado sistema, considerando su sensibilidad a la intervención humana, así como, la valoración del recurso tomando como base su atractivo turístico.
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
@@ -511,14 +516,16 @@
 
         .titulo-sexto.color-acento-botones
           h5 Tabla 2. 
-          span Asignación de Puntajes para Criterios de Calidad y Significado
+          span 
+            i Asignación de puntajes para criterios de calidad y significado
         .tabla-b.mb-4
           table.tbl-1
             caption Fuente: Ministerio de Comercio, Industria y Turismo (2010).
             thead            
               tr
                 th.tb 
-                th.text-center(colspan="2") Puntaje
+                th.text-center(colspan="2") 
+                  h4.mb-0 Puntaje
               tr
                 th.text-center(rowspan="4") 
                   h4 Calidad
@@ -547,9 +554,9 @@
                 td 18
               tr
                 td Total
-                td 30
+                td 36
 
-        p.mb-4 El turismo de naturaleza y el ecoturismo se reconocen como formas de turismo particularmente enriquecedora y valorizadora, siempre que se respeten el patrimonio natural y la población local; ajustándola a la capacidad de ocupación de los lugares turísticos   
+        p.mb-4 El turismo de naturaleza y el ecoturismo se reconocen como formas de turismo particularmente enriquecedora y valorizadora, siempre que se respeten el patrimonio natural y la población local; ajustándola a la capacidad de ocupación de los lugares turísticos.
 
 </template>
 
