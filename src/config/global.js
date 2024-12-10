@@ -99,7 +99,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CFA1_66410054_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -287,6 +287,12 @@ export default {
     {
       referencia:
         'Ministerio de Comercio, Industria y Turismo. (10 de enero de 2010). Metodología para la elaboración del Inventario de atractivos turísticos. Recuperado el 31 de octubre de 2012',
+    },
+    {
+      referencia:
+        'Nicolau, J. L. (9 de Octubre de 2012). El Producto Turístico. Recuperado el 24 de noviembre de 2014, de slideshare.',
+      link:
+        'http://www.slideshare.net/urania31k/el-producto-turstico?from_search=2',
     },
     {
       referencia:

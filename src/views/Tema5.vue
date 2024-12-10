@@ -30,7 +30,7 @@
 
           .col-xl-2.col-lg-3
             figure.fl-box-img.img-2
-              img(src='@/assets/curso/temas/tema5/img-3.png' alt='Background Image')
+              img(src='@/assets/curso/temas/tema5/img-3.png' )
 
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
@@ -66,7 +66,7 @@
                   p.mb-0 <b>Representatividad:</b> importancia del bien como un elemento que dio partida a un hecho histórico, social o cultural. (Ministerio de Comercio, Industria y Turismo, 2010)
       .col-lg-4.col-md-8.order-1.order-xl-2
         figure.mb-4
-          img(src='@/assets/curso/temas/tema5/img-5.png' alt='Background Image')
+          img(src='@/assets/curso/temas/tema5/img-5.png' )
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
@@ -79,7 +79,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-xl-3.col-md-6
         figure.mb-4
-          img(src='@/assets/curso/temas/tema5/img-6.png' alt='Background Image')
+          img(src='@/assets/curso/temas/tema5/img-6.png' )
       .col-xl-8
         .row
           .col-lg-6
@@ -133,21 +133,21 @@
             .row.justify-content-end.align-items-end.mb-5
               .col-auto
                 figure
-                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg' alt='Background Image')
+                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg' )
             h5 Organización del evento: 
             p Valora aspectos como el contenido de éste, programación, cumplimiento, logística.
           .tarjeta.fnd-8-2.p-4
             .row.justify-content-end.align-items-end.mb-5
               .col-auto
                 figure
-                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg' alt='Background Image')          
+                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg' )          
             h5 Beneficios socioculturales para la comunidad: 
             p.mb-0 Arraigo dentro de la comunidad, divulgación del folclore regional, nivel en que ayuda el evento a la promoción de la región y nivel de integración comunitaria en la realización del evento.
           .tarjeta.fnd-8-2.p-4
             .row.justify-content-end.align-items-end.mb-5
               .col-auto
                 figure
-                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg' alt='Background Image')
+                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg' )
             h5 Beneficios económicos locales: 
             p Los ingresos regionales que aporta, los beneficios en el mejoramiento de la calidad de vida de la población y la correcta utilización del presupuesto destinado a la organización del evento.
 
@@ -222,7 +222,7 @@
 
           .col-xl-2.col-lg-3
             figure.fl-box-img.img-3
-              img(src='@/assets/curso/temas/tema5/img-12.png' alt='Background Image')
+              img(src='@/assets/curso/temas/tema5/img-12.png' )
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10
@@ -272,6 +272,17 @@
             img(src="@/assets/curso/temas/tema5/check2.svg")
           .col.px-0
             p.mb-0 Revistas especializadas en turismo, de orden regional, nacional o internacional; virtual o impreso.
+        .row.pe-lg-3(data-aos="zoom-in")
+          .col-auto.pe-2.mt-1
+            img(src="@/assets/curso/temas/tema5/check2.svg")
+          .col.px-0
+            p.mb-0 Periódicos regionales o nacionales y sus secciones de turismo.
+        .row.pe-lg-3(data-aos="zoom-in")
+          .col-auto.pe-2.mt-1
+            img(src="@/assets/curso/temas/tema5/check2.svg")
+          .col.px-0
+            p.mb-0 Mapas y planos turísticos del orden regional, nacional o internacional.
+
     p Cuando un bien cultural o natural no cuenta con reconocimiento frente a los mercados turísticos, queda como un recurso turístico; y, como componente de un producto turístico, puede ser susceptible de acciones de mejoramiento y promoción, para integrarlo posteriormente en procesos de la cadena productiva del turismo.
     p.mb-5 Para efectos de determinar la vocación turística de un destino y la elaboración del inventario de atractivos turísticos, los municipios que cuenten sólo con bienes de significado local, se considera que habrán realizado la identificación de un recurso turístico.
 

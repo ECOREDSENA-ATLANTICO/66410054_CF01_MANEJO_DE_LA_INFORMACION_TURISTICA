@@ -20,7 +20,7 @@
         p Ahora exploraremos un enfoque más de <i>marketing</i> y mercado, aplicando algunas diferenciaciones en la forma de tipologías que implantan algunos autores, como:
         p <b>Consumo:</b> que desde que surge la necesidad de realizar un viaje hasta que, disfruta de sus vacaciones, y vuelve a su casa y habla de las vivencias de su viaje, por eso es que dependiendo de la clasificación se busca reducir el objeto clasificado, consiguiendo en ocasiones retirar cualquier propósito de complejidad. 
         .cajon.color-primario.p-4.fnd-1
-          p.mb-0 El autor <b>Tirso Maldonado</b> hace una clasificación que empieza a ser clásica, que divide al cliente en<i> consumer, prosumer y adprosumer,</i> No existe en la industria turística el <i>consumer</i>, ilustrado como mero consumidor, porque en el destino que es el producto o sea el servicio se crea por la interrelación entre trabajador y cliente, ya que todo esto forma parte de la creación del producto nombrado, es por eso que se debe utilizar cierta perspectiva para analizarlo:
+          p.mb-0 El autor <b>Tirso Maldonado</b> hace una clasificación que empieza a ser clásica, que divide al cliente en<i> consumer, prosumer y adprosumer.</i> No existe en la industria turística el <i>consumer</i>, ilustrado como mero consumidor, porque en el destino que es el producto o sea el servicio se crea por la interrelación entre trabajador y cliente, ya que todo esto forma parte de la creación del producto nombrado, es por eso que se debe utilizar cierta perspectiva para analizarlo:
 
 
     .row.justify-content-center.align-items-center.mb-5.fnd-2.p-lg-4(data-aos="fade-right")
@@ -39,7 +39,7 @@
             .col-xl-8
               h5
                 i Prosumer
-              p Le gusta crear su propio producto, desde que le nace la necesidad del viaje, es un consumidor activo el cual utiliza internet para documentarse de aquellos servicios que le satisfacen a la hora de elegir alguno y le gusta consultar opiniones de otros viajeros, lo cual es esencial entender que el <i>prosumer</i> no tiene una fuente de búsqueda que considera muy importante solamente lo que encuentra en <i>blogs</i>, redes y comunidades sociales o páginas de opinión, Su producto se aparta de los paquetes turísticos creados por las agencias de viajes, ya que busca una experiencia individualizada, que lo lleva a una compra selectiva de servicios, no acostumbra ser un cliente fiel porque busca la diversidad y la experimentación, adquirir una experiencia única. 
+              p Le gusta crear su propio producto, desde que le nace la necesidad del viaje, es un consumidor activo el cual utiliza internet para documentarse de aquellos servicios que le satisfacen a la hora de elegir alguno y le gusta consultar opiniones de otros viajeros, lo cual es esencial entender que el <i>prosumer</i> no tiene una fuente de búsqueda que considera muy importante solamente lo que encuentra en <i>blogs</i>, redes y comunidades sociales o páginas de opinión. Su producto se aparta de los paquetes turísticos creados por las agencias de viajes, ya que busca una experiencia individualizada, que lo lleva a una compra selectiva de servicios, no acostumbra ser un cliente fiel porque busca la diversidad y la experimentación, adquirir una experiencia única. 
               
             .col-xl-4.mb-0.mb-md-4.col-md-6
               figure
@@ -128,14 +128,14 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-9.png')
       .col-lg-7
-        p La creación del tiempo libre en la sociedad, el movimiento de los pueblos a las ciudades y las duras condiciones de las grandes urbes han producido que las personas sientan una necesidad de evasión que desemboca en las siguientes tendencias turísticas: 
+        p La creación del tiempo libre en la sociedad, el movimiento de los pueblos a las ciudades y las duras condiciones de las grandes urbes, han producido que las personas sientan una necesidad de evasión que desemboca en las siguientes tendencias turísticas: 
         p <b>El <i>boom </i>turístico y el turismo de masas:</b> Los <i>tours</i> operadores y los grandes canales de comercialización turística ofrecen a precios asequibles viajes en masa a destinos de sol y playa. Este turismo responde a una necesidad de descanso. Estas tendencias siguen siendo rígidas y masivas. 
 
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-start.mb-5(data-aos="fade-right")
       .col-xl-10.fnd-6
-        .row.justify-content-center.align-items-center.fnd-5
-          .col-xl-10.col-lg-9
+        .row.justify-content-center.align-items-start.fnd-5
+          .col-xl-9.col-lg-9
             p.mb-0 El turista ya no sigue el camino marcado por los <i>tours</i> operadores, el turista es un individuo mejor informado y que demanda una oferta de calidad como consecuencia de la alta competitividad entre otros factores. Es un turista que gracias a las nuevas tecnologías puede consultar experiencias de otros turistas quienes pueden opinar libremente y así podrá ofrecer su opinión al mundo mediante internet y la<i> web </i>2.0. Ahora el turista no tiene que creer lo que le dice la agencia o los canales de comercialización al pie de la letra si no que podrá contrastar las diversas fuentes de información.
           .col-xl-2.col-lg-3
             figure.fl-box-img

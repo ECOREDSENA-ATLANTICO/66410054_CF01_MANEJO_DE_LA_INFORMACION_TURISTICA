@@ -109,7 +109,7 @@
       .col-auto.pe-2.mt-1.fnd-t
         h5 Determinantes personales del comportamiento del consumidor  
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
+    .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-xl-8
         p Son varios los factores que influyen en la evolución del comportamiento de un consumidor, y como se ubican estos factores en su mente, los cuales ayudan a encontrar el servicio ideal para su satisfacción, de los cuales podemos encontrar: 
 
@@ -181,7 +181,11 @@
       .col-lg-4.col-md-8.d-none.d-xl-block
         figure.mb-md-4.mb-lg-0
           img(src='@/assets/curso/temas/tema3/img-7.png', alt='')
-
+    .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
+      .col-auto.pe-2
+        img(src="@/assets/curso/temas/tema1/img-6.png")
+      .col.px-0
+        h3.mb-0 Atractivos turísticos
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-xl-4.col-md-5.order-2.order-lg-1
         figure.mb-md-4.mb-lg-5
