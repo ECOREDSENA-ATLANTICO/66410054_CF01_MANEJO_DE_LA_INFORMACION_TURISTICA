@@ -419,7 +419,7 @@ export default {
         {
           id: 13,
           texto:
-            '¿En una asesoría turística, ¿por qué es importante conocer las expectativas emocionales de los clientes?',
+            'En una asesoría turística, ¿por qué es importante conocer las expectativas emocionales de los clientes?',
           imagen: require('@/assets/actividad/img-1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -522,7 +522,7 @@ export default {
         {
           id: 16,
           texto:
-            '¿Cuándo un cliente solicita un paquete turístico personalizado, ¿qué tipo de información adicional es relevante recabar?',
+            'Cuándo un cliente solicita un paquete turístico personalizado, ¿qué tipo de información adicional es relevante recabar?',
           imagen: require('@/assets/actividad/img-4.png'),
           barajarRespuestas: true,
           opciones: [

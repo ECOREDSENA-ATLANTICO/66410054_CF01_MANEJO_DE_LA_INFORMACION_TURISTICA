@@ -99,7 +99,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA1_66410054_DU.pdf',
+        download: 'downloads/CF1_66410054_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -115,17 +115,17 @@ export default {
   },
   complementario: [
     {
-      tema: 'Ministerio de comercio y turismo',
+      tema: 'Valoración de los atractivos turísticos',
       referencia:
         'Metodología para la elaboración del inventario de atractivos turísticos',
-      tipo: 'Pdf',
+      tipo: 'Documento PDF',
       descarga:
         '/downloads/METODOLOGIA-PARA-LA-ELABORACION-DEL-INVENTARIO-DE-ATRACTIVOS-TURISTICOS.pdf',
     },
     {
-      tema: 'Unesco',
+      tema: 'Valoración de los atractivos turísticos',
       referencia: 'Identificar e inventariar el patrimonio cultural inmaterial',
-      tipo: 'Pdf',
+      tipo: 'Documento PDF',
       descarga: '/downloads/01856-ES.pdf ',
     },
   ],

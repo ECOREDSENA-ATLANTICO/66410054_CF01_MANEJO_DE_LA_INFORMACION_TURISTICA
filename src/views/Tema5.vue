@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-xl-4.col-md-6.mb-4
         figure
-          img(src='@/assets/curso/temas/tema5/img-1.png')
+          img(src='@/assets/curso/temas/tema5/img-1.png', alt='Imagen decorativa')
       .col-xl-8
         p La valoración de los atractivos turísticos resulta indispensable para determinar un punto de partida, en el que se conozca las condiciones actuales de un destino de manera realista, identificando los factores clave tanto de su potencial como su protección, que garantizan su desarrollo armónico y seguro: <b>la calidad es un conjunto de características que le confieren a un producto o servicio, los atributos necesarios para satisfacer necesidades implícitas y expresas.</b> 
         p Los criterios de calidad varían de acuerdo con el atractivo que se esté evaluando y hacen referencia al grado de conservación en el que se encuentre el atractivo. La calificación de la calidad representa el 70 % del total del puntaje asignable, en donde se deben valorar todos los criterios para cada atractivo. Por otro lado, está el <b>Significado: los criterios de significado hacen referencia al grado de reconocimiento que tiene el atractivo.</b> Representan el 30 % de la calificación. Sólo se valora con uno de los criterios (es una calificación excluyente) y se aplica un valor único.
@@ -30,12 +30,12 @@
 
           .col-xl-2.col-lg-3
             figure.fl-box-img.img-2
-              img(src='@/assets/curso/temas/tema5/img-3.png' )
+              img(src='@/assets/curso/temas/tema5/img-3.png', alt='Imagen decorativa' )
 
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
-        img(src="@/assets/curso/temas/tema1/img-6.png")
+        img(src='@/assets/curso/temas/tema1/img-6.png', alt='Imagen decorativa')
       .col.px-0
         h3.mb-0 Patrimonio material
 
@@ -46,31 +46,31 @@
           .col-lg-12.tg-a
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
-                img.img-72-(src='@/assets/curso/temas/tema5/img-4.svg' alt='AvatarTop')
+                img.img-72-(src='@/assets/curso/temas/tema5/img-4.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul.fnd-8
                 .py-3.pe-5
                   p.mb-0 <b>Constitución del bien:</b> se refiere a los materiales y las técnicas de elaboración del bien. Existen bienes que por su antigüedad poseen materiales y técnicas en desuso o desaparecidas que merecen ser destacadas en el ejercicio de la valoración. Pero, también, pueden existir bienes con materiales o combinación de técnicas modernas que, igualmente, pueden valorarse por su singularidad o porque representan avances tecnológicos.
           .col-lg-6.tg-b
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema5/img-4.svg' alt='AvatarTop')
+                img.img-72(src='@/assets/curso/temas/tema5/img-4.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul.fnd-8
                 .py-3.px-2
                   p.mb-0 <b>Estado de conservación:</b> si conserva su homogeneidad estética y su integridad física, desde su situación original o a partir de las posibles acciones del hombre (restauración), para mejorar la calidad del recurso.
           .col-lg-6.tg-b
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema5/img-4.svg' alt='AvatarTop')
+                img.img-72(src='@/assets/curso/temas/tema5/img-4.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul.fnd-8
                 .py-3.px-2
                   p.mb-0 <b>Representatividad:</b> importancia del bien como un elemento que dio partida a un hecho histórico, social o cultural. (Ministerio de Comercio, Industria y Turismo, 2010)
       .col-lg-4.col-md-8.order-1.order-xl-2
         figure.mb-4
-          img(src='@/assets/curso/temas/tema5/img-5.png' )
+          img(src='@/assets/curso/temas/tema5/img-5.png', alt='Imagen decorativa' )
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
-        img(src="@/assets/curso/temas/tema1/img-6.png")
+        img(src='@/assets/curso/temas/tema1/img-6.png', alt='Imagen decorativa')
       .col.px-0
         h3.mb-0 Patrimonio inmaterial
 
@@ -79,41 +79,41 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-xl-3.col-md-6
         figure.mb-4
-          img(src='@/assets/curso/temas/tema5/img-6.png' )
+          img(src='@/assets/curso/temas/tema5/img-6.png', alt='Imagen decorativa' )
       .col-xl-8
         .row
           .col-lg-6
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema5/img-7.svg' alt='AvatarTop')
+                img.img-72(src='@/assets/curso/temas/tema5/img-7.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul.fnd-8-1
                 .py-3.px-2
                   p.mb-0 <b>Colectiva:</b> común a un grupo humano que se siente representado en este hecho, que lo usufructúa y lo transmite.
           
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema5/img-7.svg' alt='AvatarTop')
+                img.img-72(src='@/assets/curso/temas/tema5/img-7.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul.fnd-8-1
                 .py-3.px-2
                   p.mb-0 <b>Tradicional:</b> se transmite de generación en generación y sus orígenes se pierden en el tiempo.
           
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema5/img-7.svg' alt='AvatarTop')
+                img.img-72(src='@/assets/curso/temas/tema5/img-7.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul.fnd-8-1
                 .py-3.px-2
                   p <b>Anónima:</b> no tiene autor conocido y su origen se remonta a tiempos muy antiguos.
           .col-lg-6      
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema5/img-7.svg' alt='AvatarTop')
+                img.img-72(src='@/assets/curso/temas/tema5/img-7.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul.fnd-8-1
                 .py-3.px-2
                   p <b>Espontánea:</b> responde al modo natural, sencillo e ingenuo con que se transmite una expresión.
           
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema5/img-7.svg' alt='AvatarTop')
+                img.img-72(src='@/assets/curso/temas/tema5/img-7.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul.fnd-8-1
                 .py-3.px-2
                   p <b>Popular:</b> representa la cotidianidad de las masas populares.
@@ -121,7 +121,7 @@
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
-        img(src="@/assets/curso/temas/tema1/img-6.png")
+        img(src='@/assets/curso/temas/tema1/img-6.png', alt='Imagen decorativa')
       .col.px-0
         h3.mb-0 Festividades y eventos
     p.mb-5 Expresión cultural dispuesta para el festejo y el agradecimiento o para conmemorar u honrar determinadas circunstancias. En ella se verifica:
@@ -133,44 +133,44 @@
             .row.justify-content-end.align-items-end.mb-5
               .col-auto
                 figure
-                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg' )
+                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg', alt='Imagen decorativa' )
             h5 Organización del evento: 
             p Valora aspectos como el contenido de éste, programación, cumplimiento, logística.
           .tarjeta.fnd-8-2.p-4
             .row.justify-content-end.align-items-end.mb-5
               .col-auto
                 figure
-                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg' )          
+                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg', alt='Imagen decorativa' )          
             h5 Beneficios socioculturales para la comunidad: 
             p.mb-0 Arraigo dentro de la comunidad, divulgación del folclore regional, nivel en que ayuda el evento a la promoción de la región y nivel de integración comunitaria en la realización del evento.
           .tarjeta.fnd-8-2.p-4
             .row.justify-content-end.align-items-end.mb-5
               .col-auto
                 figure
-                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg' )
+                  img.img-38(src='@/assets/curso/temas/tema5/ttrp.svg', alt='Imagen decorativa' )
             h5 Beneficios económicos locales: 
             p Los ingresos regionales que aporta, los beneficios en el mejoramiento de la calidad de vida de la población y la correcta utilización del presupuesto destinado a la organización del evento.
 
       .col-xl-4.col-md-6.mb-4.order-1.order-xl-2
         figure
-          img(src='@/assets/curso/temas/tema5/img-8.png')
+          img(src='@/assets/curso/temas/tema5/img-8.png', alt='Imagen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
           .col-auto.pe-2
-            img(src="@/assets/curso/temas/tema1/img-6.png")
+            img(src='@/assets/curso/temas/tema1/img-6.png', alt='Imagen decorativa')
           .col.px-0
             h3.mb-0 Grupos de especial interés
         .row.justify-content-center.align-items-center
           .col-lg-6
             .cajon.color-acento-botones.p-4.mb-4.fnd-8-3
-              p.mb-0 Organizaciones con un interés común, como los indígenas y las comunidades negras y raizales. Su valoración más importante.
+              p.mb-0 Organizaciones con un interés común, como los indígenas y las comunidades negras y raizales. Su valoración más importante es:
 
           .col-lg-6
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema5/img-9.svg' alt='AvatarTop')
+                img.img-72(src='@/assets/curso/temas/tema5/img-9.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul.fnd-8-3
                 .py-3.px-2
                   p.mb-0 <b>Respeto por las costumbres: </b>forma de conservación auténtica de su legado cultural.
@@ -184,7 +184,7 @@
         .row.justify-content-center.align-items-center.mb-5.fnd-8-4
           .col-lg-4.col-md-8.mb-md-4.mb-lg-0
             figure
-              img(src='@/assets/curso/temas/tema5/img-10.png')
+              img(src='@/assets/curso/temas/tema5/img-10.png', alt='Imagen decorativa')
 
           .col-lg-8.py-lg-4.py-xl-0
             .row.pe-lg-3(data-aos="zoom-in")
@@ -222,7 +222,7 @@
 
           .col-xl-2.col-lg-3
             figure.fl-box-img.img-3
-              img(src='@/assets/curso/temas/tema5/img-12.png' )
+              img(src='@/assets/curso/temas/tema5/img-12.png', alt='Imagen decorativa' )
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10
@@ -233,7 +233,7 @@
             i Grado de reconocimiento
 
         table.tbl.mb-5
-          caption Fuente: Sena(2024).
+          caption Fuente: Sena (2024).
           tr
             td Local 	
             td Grado de reconocimiento del atractivo dentro del área municipal.
@@ -249,7 +249,7 @@
     .row.justify-content-center.align-items-center.mb-5.fnd-8-8(data-aos="fade-right")
       .col-lg-4.col-md-8.px-0.mb-md-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema5/img-13.png')
+          img(src='@/assets/curso/temas/tema5/img-13.png', alt='Imagen decorativa')
 
       .col-lg-8.p-lg-2.py-4
         .row.pe-lg-3(data-aos="zoom-in")
@@ -288,7 +288,7 @@
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
-        img(src="@/assets/curso/temas/tema1/img-6.png")
+        img(src='@/assets/curso/temas/tema1/img-6.png', alt='Imagen decorativa')
       .col.px-0
         h3.mb-0 Asignación de puntaje
     p.mb-4 Herramientas técnicas basadas en criterios seleccionados y adaptados para la toma de decisiones en materia de gestión turística. Su puntaje se deriva del nivel de importancia para cada criterio:
@@ -482,7 +482,7 @@
     p La valoración de los recursos naturales facilita la toma de decisiones para implementar una actividad recreativa sobre un determinado sistema, considerando su sensibilidad a la intervención humana, así como, la valoración del recurso tomando como base su atractivo turístico.
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
-        img(src="@/assets/curso/temas/tema1/img-6.png")
+        img(src='@/assets/curso/temas/tema1/img-6.png', alt='Imagen decorativa')
       .col.px-0
         h3.mb-0 Calidad
     p Tiene en cuenta el estado de conservación de los atractivos a nivel ambiental, es decir, la escasa o nula presencia de deterioro, ocasionado por contaminantes primarios como residuos de petróleo, detergentes, plásticos y latas; igualmente, contaminantes secundarios como ruidos, olores desagradables y obstrucción visual. Los criterios por considerar para evaluar la calidad son:
@@ -491,7 +491,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-xl-4.col-md-6
         figure.mb-md-4.mb-lg-5
-          img(src='@/assets/curso/temas/tema5/img-15.png', alt='')
+          img(src='@/assets/curso/temas/tema5/img-15.png', alt='Imagen decorativa')
       .col-xl-8
         SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
           .tarjeta.fnd-8-9.p-4
@@ -520,7 +520,7 @@
       .col-xl-8    
         .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
           .col-auto.pe-2
-            img(src="@/assets/curso/temas/tema1/img-6.png")
+            img(src='@/assets/curso/temas/tema1/img-6.png', alt='Imagen decorativa')
           .col.px-0
             h3.mb-0 Significado
         p.mb-4 Determinado por el grado de reconocimiento que del atractivo se tenga, ya sea en su entorno local para el caso de un área municipal; regional, para un área de uno o más departamentos; o, nacional, con reconocimiento dentro del país.

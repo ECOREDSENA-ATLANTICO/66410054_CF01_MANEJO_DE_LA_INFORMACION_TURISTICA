@@ -7,12 +7,12 @@
         span 1
       h1 Caracterización de clientes
       
-    p  En la caracterización de clientes se encuentran varias clasificaciones que tratan de segmentar tipologías del cliente, igualmente existen diferentes perspectivas y enfoques que ayudan en la identificación y conocimiento de sus características, rasgos, hábitos, comportamiento y perfiles; especialmente en el ámbito turístico la importancia de conocer los diversos tipos de clientes permite determinar perspectivas de satisfacción a la hora de adquirir un producto turístico.
+    p  En la caracterización de clientes se encuentran varias clasificaciones que tratan de segmentar tipologías del cliente, igualmente existen diferentes perspectivas y enfoques que ayudan en la identificación y conocimiento de sus características, rasgos, hábitos, comportamiento y perfiles; especialmente en el ámbito turístico, la importancia de conocer los diversos tipos de clientes permite determinar perspectivas de satisfacción a la hora de adquirir un producto turístico.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-xl-4.col-md-5
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1/img-1.png', alt='')
+          img(src='@/assets/curso/temas/tema1/img-1.png', alt='Imagen decorativa')
       .col-xl-8
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-auto.fnd-t.fnd-t-4
@@ -34,7 +34,7 @@
               
             .col-xl-5.col-md-6.mb-0.mb-md-4
               figure
-                img(src='@/assets/curso/temas/tema1/img-2.png')
+                img(src='@/assets/curso/temas/tema1/img-2.png', alt='Imagen decorativa')
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
             .col-xl-8
               h5
@@ -43,7 +43,7 @@
               
             .col-xl-4.mb-0.mb-md-4.col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/img-3.png')
+                img(src='@/assets/curso/temas/tema1/img-3.png', alt='Imagen decorativa')
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
             .col-xl-8
               h5
@@ -52,7 +52,7 @@
               
             .col-xl-4.mb-0.mb-md-4.col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/img-5.png')
+                img(src='@/assets/curso/temas/tema1/img-5.png', alt='Imagen decorativa')
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
             .col-xl-8
               h5
@@ -61,7 +61,7 @@
               
             .col-xl-4.mb-0.mb-md-4.col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/img-4.png')
+                img(src='@/assets/curso/temas/tema1/img-4.png', alt='Imagen decorativa')
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
       
               h5
@@ -80,7 +80,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-4.col-md-6.order-2.order-xl-1.mb-lg-4
         figure
-          img(src='@/assets/curso/temas/tema1/img-7.png')
+          img(src='@/assets/curso/temas/tema1/img-7.png', alt='Imagen decorativa')
       .col-xl-8.order-1.order-xl-2
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-3")
           .row(titulo="Turismo de sol y playa")
@@ -112,7 +112,7 @@
        
       .col-lg-4.col-md-8
         figure
-          img(src='@/assets/curso/temas/tema1/img-8.png')
+          img(src='@/assets/curso/temas/tema1/img-8.png', alt='Imagen decorativa')
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
@@ -126,7 +126,7 @@
     .row.justify-content-center.align-items-center.mb-5.fnd-4(data-aos="fade-right")
       .col-lg-5.col-md-8
         figure
-          img(src='@/assets/curso/temas/tema1/img-9.png')
+          img(src='@/assets/curso/temas/tema1/img-9.png', alt='Imagen decorativa')
       .col-lg-7
         p La creación del tiempo libre en la sociedad, el movimiento de los pueblos a las ciudades y las duras condiciones de las grandes urbes, han producido que las personas sientan una necesidad de evasión que desemboca en las siguientes tendencias turísticas: 
         p <b>El <i>boom </i>turístico y el turismo de masas:</b> Los <i>tours</i> operadores y los grandes canales de comercialización turística ofrecen a precios asequibles viajes en masa a destinos de sol y playa. Este turismo responde a una necesidad de descanso. Estas tendencias siguen siendo rígidas y masivas. 
@@ -139,7 +139,7 @@
             p.mb-0 El turista ya no sigue el camino marcado por los <i>tours</i> operadores, el turista es un individuo mejor informado y que demanda una oferta de calidad como consecuencia de la alta competitividad entre otros factores. Es un turista que gracias a las nuevas tecnologías puede consultar experiencias de otros turistas quienes pueden opinar libremente y así podrá ofrecer su opinión al mundo mediante internet y la<i> web </i>2.0. Ahora el turista no tiene que creer lo que le dice la agencia o los canales de comercialización al pie de la letra si no que podrá contrastar las diversas fuentes de información.
           .col-xl-2.col-lg-3
             figure.fl-box-img
-              img(src='@/assets/curso/temas/tema1/img-10.png' alt='Background Image')
+              img(src='@/assets/curso/temas/tema1/img-10.png' alt='Imagen decorativa')
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2.mt-1.fnd-t.fnd-t-2
@@ -151,7 +151,7 @@
         p Lo que nunca debe olvidar quien atiende clientes es que estas clasificaciones son un instrumento, un apoyo que la psicología le da a fin de perfeccionar su capacidad de gestión, no basta con saber clasificar a un cliente, es saber cómo tratarlo y como llegarle para conseguir los objetivos propuestos, en la generalidad de los casos se atiende más a un rasgo específico de personalidad, más que a un conjunto de ellos, si se presta atención a como un cliente destaca en ese rasgo concreto, inmediatamente es clasificado en ese grupo, lo que permite sugerirle al profesional cómo tiene que comunicarse para obtener los mejores resultados.
       .col-xl-3.col-md-6.order-1.order-xl-2
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1/img-11.png')
+          img(src='@/assets/curso/temas/tema1/img-11.png', alt='Imagen decorativa')
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2.mt-1.fnd-t.fnd-t-2
@@ -160,7 +160,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-xl-4.col-md-6.mb-4
         figure
-          img(src='@/assets/curso/temas/tema1/img-12.png')
+          img(src='@/assets/curso/temas/tema1/img-12.png', alt='Imagen decorativa')
       .col-xl-8
         SlyderF.mb-5(columnas="col-md-6")
           .tarjeta.fnd-7.p-4

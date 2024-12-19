@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-xl-3.col-md-5
         figure.mb-4
-          img(src='@/assets/curso/temas/tema3/img-1.png', alt='')
+          img(src='@/assets/curso/temas/tema3/img-1.png', alt='Imagen decorativa')
       .col-xl-9       
         p El comportamiento del consumidor se refiere al conjunto de actividades que lleva a cabo una persona o una organización desde que tiene una necesidad hasta el momento que efectúa la compra y usa posteriormente el producto. 
         p Son varios los factores que pueden contribuir a explicar el comportamiento de los turistas como económicos, sociales y personales, los cuales buscan estudiar el comportamiento humano frente a los productos que la empresa pone a disposición del posible comprador o consumidor en el mercado, y poder detectar las necesidades que existen, y analizar el proceso de decisión que conduce al suceso de adquisición del producto. 
@@ -18,7 +18,7 @@
         .row.justify-content-center.align-items-center
           .col-auto.d-none.d-md-block
             figure.mb-md-4.mb-lg-0
-              img(src='@/assets/curso/temas/tema3/img-2.svg', alt='')
+              img(src='@/assets/curso/temas/tema3/img-2.svg', alt='Imagen decorativa')
           .col
             .cajon.color-secundario.p-4
               h5 Características del comportamiento
@@ -53,11 +53,6 @@
       .col-lg-6.fnd-9-2.p-4.fnd-9   
         h3 Factores para la comprensión del comportamiento del consumidor
 
-        .row.pe-lg-3(data-aos="zoom-in")
-          .col-auto.pe-2.mt-1
-            img(src="@/assets/curso/temas/tema2/check2.svg")
-          .col.px-0
-            p.mb-0 Factores para la comprensión del comportamiento del consumidor.
         .row.pe-lg-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema2/check2.svg")
@@ -117,7 +112,7 @@
           .col-lg-4.col-md-6.tg-d
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema3/img-4.svg', alt='')
+                img.img-72(src='@/assets/curso/temas/tema3/img-4.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul
                 .p-2        
                   p.mb-0 El destino.
@@ -125,7 +120,7 @@
           .col-lg-4.col-md-6
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema3/img-5.svg', alt='')
+                img.img-72(src='@/assets/curso/temas/tema3/img-5.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul
                 .p-2
                   p.mb-0 La disponibilidad de servicios.      
@@ -133,7 +128,7 @@
           .col-lg-4.col-md-6
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
-                img.img-72(src='@/assets/curso/temas/tema3/img-6.svg', alt='')
+                img.img-72(src='@/assets/curso/temas/tema3/img-6.svg', alt='Imagen decorativa')
               .tarjeta.tarjeta--azul
                 .p-2
                   p.mb-0 La diferencia de precios. 
@@ -141,7 +136,7 @@
         .row.justify-content-center.align-items-center.mb-5.fnd-8.py-4
           .col-xl-3.col-lg-3.col-md-5.col-6
             figure.mb-4
-              img(src='@/assets/curso/temas/tema3/img-8.svg', alt='')
+              img(src='@/assets/curso/temas/tema3/img-8.svg', alt='Imagen decorativa')
           .col-lg-8       
             h5 La actitud y la percepción de los destinos y organizaciones turísticas son otros de los determinantes del comportamiento del consumidor como son: 
             .row.pe-lg-3(data-aos="zoom-in")
@@ -180,7 +175,7 @@
 
       .col-lg-4.col-md-8.d-none.d-xl-block
         figure.mb-md-4.mb-lg-0
-          img(src='@/assets/curso/temas/tema3/img-7.png', alt='')
+          img(src='@/assets/curso/temas/tema3/img-7.png', alt='Imagen decorativa')
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2
         img(src="@/assets/curso/temas/tema1/img-6.png")
@@ -189,7 +184,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-xl-4.col-md-5.order-2.order-lg-1
         figure.mb-md-4.mb-lg-5
-          img(src='@/assets/curso/temas/tema3/img-9.png', alt='')
+          img(src='@/assets/curso/temas/tema3/img-9.png', alt='Imagen decorativa')
       .col-xl-8.order-1.order-lg-2
         SlyderF.mb-5(columnas="col-md-6")
           .tarjeta.fnd-8-10.p-4

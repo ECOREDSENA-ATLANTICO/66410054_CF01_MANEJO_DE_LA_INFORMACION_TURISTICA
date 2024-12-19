@@ -13,7 +13,7 @@
         
       .col-xl-4.col-md-6.mb-4.order-1.order-xl-2
         figure
-          img(src='@/assets/curso/temas/tema4/img-1.svg')
+          img(src='@/assets/curso/temas/tema4/img-1.svg', alt='Imagen decorativa')
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2.mt-1.fnd-t.fnd-t-3
@@ -24,7 +24,7 @@
       .col-lg-5
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img.img-72(src='@/assets/curso/temas/tema4/img-2.svg', alt='')
+            img.img-72(src='@/assets/curso/temas/tema4/img-2.svg', alt='Imagen decorativa')
           .tarjeta.tarjeta--azul.fnd-8
             .p-4         
               p.mb-0 <b>Recurso:</b> factores físicos y culturales potencialmente explotables por el turismo.
@@ -32,7 +32,7 @@
       .col-lg-7
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img.img-72(src='@/assets/curso/temas/tema4/img-3.svg', alt='')
+            img.img-72(src='@/assets/curso/temas/tema4/img-3.svg', alt='Imagen decorativa')
           .tarjeta.tarjeta--azul.fnd-8
             .p-4
               p.mb-0 <b>Atractivo:</b> factores físicos y culturales que reúnen las condiciones para ser integrados de inmediato a los productos turísticos. 
@@ -53,7 +53,7 @@
               
           .col-lg-7.col-md-8
             figure
-              img(src='@/assets/curso/temas/tema4/img-4.png')
+              img(src='@/assets/curso/temas/tema4/img-4.png', alt='Imagen decorativa')
 
       .tarjeta.fnd-8-8.p-4(titulo="Patrimonio material")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
@@ -62,7 +62,7 @@
             
           .col-lg-5.col-md-8
             figure
-              img(src='@/assets/curso/temas/tema4/img-5.png')
+              img(src='@/assets/curso/temas/tema4/img-5.png', alt='Imagen decorativa')
 
       .tarjeta.fnd-8-8.p-4(titulo="Patrimonio inmaterial")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
@@ -71,7 +71,7 @@
             
           .col-lg-5.col-md-6
             figure
-              img(src='@/assets/curso/temas/tema4/img-7.png')
+              img(src='@/assets/curso/temas/tema4/img-7.png', alt='Imagen decorativa')
 
       .tarjeta.fnd-8-8.p-4(titulo="Festividades y eventos")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
@@ -81,7 +81,7 @@
             
           .col-lg-5.col-md-6
             figure
-              img(src='@/assets/curso/temas/tema4/img-6.png')
+              img(src='@/assets/curso/temas/tema4/img-6.png', alt='Imagen decorativa')
 
       .tarjeta.fnd-8-8.p-4(titulo="Sitios naturales")
         .row.justify-content-center.align-items-center.px-lg-4.px-md-1
@@ -90,7 +90,7 @@
             
           .col-lg-5.col-md-6
             figure
-              img(src='@/assets/curso/temas/tema4/img-8.png')
+              img(src='@/assets/curso/temas/tema4/img-8.png', alt='Imagen decorativa')
 
 </template>
 
