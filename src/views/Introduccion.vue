@@ -13,7 +13,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-4.col-md-5
         figure
-          img.mb-4(src='@/assets/curso/portada/img-intro.png', alt='')
+          img.mb-4(src='@/assets/curso/portada/img-intro.png', alt='Imagen decorativa.')
 
       .col-xl-8
         p El componente formativo, asesoría turística basada en necesidades y expectativas del cliente, es esencial para proporcionar a los aprendices una comprensión integral de las características y rasgos de los usuarios del sector turístico. Este conocimiento permite identificar de manera precisa sus necesidades y expectativas, lo que facilita la adaptación de los servicios y productos turísticos ofrecidos en el mercado para garantizar una experiencia satisfactoria. Al conocer profundamente estos aspectos, los aprendices podrán alinear la oferta disponible con las demandas reales de los turistas, asegurando que sus experiencias sean enriquecedoras y satisfactorias.
